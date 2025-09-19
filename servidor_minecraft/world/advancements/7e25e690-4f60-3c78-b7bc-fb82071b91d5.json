@@ -43,6 +43,7 @@
       "minecraft:cherry_grove": "2025-08-26 21:51:33 +0000",
       "minecraft:sunflower_plains": "2025-08-31 05:01:21 +0000",
       "minecraft:birch_forest": "2025-09-08 02:03:04 +0000",
+      "minecraft:windswept_hills": "2025-09-19 22:06:01 +0000",
       "minecraft:bamboo_jungle": "2025-08-31 04:26:57 +0000",
       "minecraft:savanna_plateau": "2025-08-30 03:17:52 +0000",
       "minecraft:beach": "2025-08-27 06:01:00 +0000",
@@ -1030,8 +1031,10 @@
       "cooked_mutton": "2025-08-26 05:47:41 +0000",
       "cooked_beef": "2025-08-30 04:26:12 +0000",
       "beef": "2025-09-07 04:58:31 +0000",
+      "porkchop": "2025-09-19 22:59:30 +0000",
       "apple": "2025-08-29 06:14:59 +0000",
       "potato": "2025-09-08 03:48:46 +0000",
+      "mutton": "2025-09-19 22:41:42 +0000",
       "bread": "2025-08-26 06:49:08 +0000",
       "golden_apple": "2025-09-07 00:19:44 +0000",
       "suspicious_stew": "2025-08-27 06:03:19 +0000",
@@ -8701,6 +8704,48 @@
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2025-09-19 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_4_blueprint": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-19 22:18:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_4_smithing": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-19 22:18:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-09-19 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-19 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-19 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-19 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-19 22:45:49 +0000"
     },
     "done": true
   },

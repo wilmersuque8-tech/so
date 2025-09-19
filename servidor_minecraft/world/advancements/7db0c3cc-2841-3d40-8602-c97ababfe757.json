@@ -42,6 +42,7 @@
       "minecraft:windswept_hills": "2025-09-07 23:12:37 +0000",
       "minecraft:savanna_plateau": "2025-08-27 04:06:18 +0000",
       "minecraft:beach": "2025-08-26 05:53:08 +0000",
+      "minecraft:dark_forest": "2025-09-19 22:50:21 +0000",
       "minecraft:sparse_jungle": "2025-08-26 06:32:41 +0000",
       "minecraft:river": "2025-08-26 06:00:13 +0000",
       "minecraft:lukewarm_ocean": "2025-08-26 20:34:31 +0000",
@@ -55,6 +56,7 @@
       "minecraft:windswept_forest": "2025-09-07 00:55:57 +0000",
       "minecraft:ocean": "2025-08-26 05:53:19 +0000",
       "minecraft:jungle": "2025-08-26 06:38:28 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-19 22:53:18 +0000",
       "minecraft:snowy_beach": "2025-09-07 04:35:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:40:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 23:34:04 +0000",
@@ -8246,6 +8248,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-09-19 21:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-09-19 21:02:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-09-19 21:05:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-09-19 21:07:38 +0000"
@@ -8342,24 +8362,6 @@
     },
     "done": true
   },
-  "superbwarfare:main/banzai": {
-    "criteria": {
-      "0": "2025-09-19 21:27:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-09-19 21:02:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-09-19 21:02:00 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-19 21:07:38 +0000"
@@ -8378,12 +8380,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2025-09-19 21:05:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-19 21:07:38 +0000"
@@ -8399,6 +8395,84 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-09-19 21:07:38 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/banzai": {
+    "criteria": {
+      "0": "2025-09-19 21:27:03 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/best_friend": {
+    "criteria": {
+      "0": "2025-09-19 21:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/ancient_technology": {
+    "criteria": {
+      "0": "2025-09-19 22:58:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ancient_cpu_copy": {
+    "criteria": {
+      "has_ancient_cpu": "2025-09-19 22:58:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/enclave": {
+    "criteria": {
+      "0": "2025-09-19 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-09-19 22:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-19 22:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-19 22:52:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-09-19 22:54:05 +0000"
     },
     "done": true
   },
