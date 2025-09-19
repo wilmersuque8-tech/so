@@ -1953,7 +1953,8 @@
       "melon_slice": "2025-08-26 05:59:42 +0000",
       "golden_carrot": "2025-09-10 04:17:51 +0000",
       "cooked_chicken": "2025-08-26 05:53:28 +0000",
-      "cooked_salmon": "2025-08-26 05:55:29 +0000"
+      "cooked_salmon": "2025-08-26 05:55:29 +0000",
+      "carrot": "2025-09-19 20:00:00 +0000"
     },
     "done": false
   },
@@ -9755,6 +9756,12 @@
   "superbwarfare:recipes/misc/ntw_20_blueprint": {
     "criteria": {
       "has_ntw_20_blueprint": "2025-09-10 04:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-09-19 20:03:15 +0000"
     },
     "done": true
   },

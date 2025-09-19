@@ -1065,3 +1065,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [19Sep2025 19:55:25.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=13, z=-115} BlockPos{x=-15, y=12, z=-116}
 [19Sep2025 19:55:25.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=13, z=-115} BlockPos{x=-15, y=12, z=-116}
 [19Sep2025 19:55:25.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=13, z=-115} BlockPos{x=-15, y=12, z=-116}
+[19Sep2025 19:56:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[19Sep2025 19:56:38.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[19Sep2025 19:57:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[19Sep2025 19:57:15.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=19, z=26} BlockPos{x=-55, y=20, z=25}
+[19Sep2025 19:57:15.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=19, z=26} BlockPos{x=-55, y=20, z=25}
+[19Sep2025 20:00:15.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=32, z=-9} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:15.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=32, z=-9} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:15.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=32, z=-10} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:15.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=32, z=-10} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:15.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=32, z=-10} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:15.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=32, z=-10} BlockPos{x=-80, y=32, z=-8}
+[19Sep2025 20:00:55.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=18, z=26} BlockPos{x=-50, y=17, z=25}
+[19Sep2025 20:00:57.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=18, z=26} BlockPos{x=-50, y=17, z=29}
+[19Sep2025 20:00:57.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=18, z=26} BlockPos{x=-50, y=17, z=29}
+[19Sep2025 20:03:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has completed the challenge [Return to Sender]
