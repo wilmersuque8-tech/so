@@ -8410,48 +8410,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
-    "criteria": {
-      "has_item": "2025-09-19 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-19 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/ancient_technology": {
-    "criteria": {
-      "0": "2025-09-19 22:58:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-09-19 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ancient_cpu_copy": {
-    "criteria": {
-      "has_ancient_cpu": "2025-09-19 22:58:14 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/enclave": {
-    "criteria": {
-      "0": "2025-09-19 22:59:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-09-19 22:54:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-09-19 22:51:09 +0000"
@@ -8470,9 +8428,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-09-19 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/ancient_technology": {
+    "criteria": {
+      "0": "2025-09-19 22:58:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ancient_cpu_copy": {
+    "criteria": {
+      "has_ancient_cpu": "2025-09-19 22:58:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/enclave": {
+    "criteria": {
+      "0": "2025-09-19 22:59:10 +0000"
     },
     "done": true
   },
