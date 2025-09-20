@@ -3500,3 +3500,51 @@ com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but wa
 [20Sep2025 23:27:56.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
 [20Sep2025 23:28:29.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
 [20Sep2025 23:28:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[20Sep2025 23:29:00.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[20Sep2025 23:29:29.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to -1448.500000, 71.000000, -335.500000]
+[20Sep2025 23:29:29.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[20Sep2025 23:29:35.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[20Sep2025 23:30:03.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to -1447.500000, 72.000000, -334.500000]
+[20Sep2025 23:30:08.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[20Sep2025 23:30:14.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[20Sep2025 23:30:29.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[20Sep2025 23:30:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[20Sep2025 23:31:12.996] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f8f33b7[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.67.145.104:49119) lost connection: Disconnected
+[20Sep2025 23:31:27.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.67.145.104:35997] logged in with entity id 116949 at (3889.638231043518, 4.0, 3443.0979041286696)
+[20Sep2025 23:31:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[20Sep2025 23:31:27.162] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[20Sep2025 23:31:46.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to MIKEGaming]
+[20Sep2025 23:31:54.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
+[20Sep2025 23:31:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no hagas eso
+[20Sep2025 23:31:58.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> porfa
+[20Sep2025 23:32:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> HUY
+[20Sep2025 23:32:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> VE AGACHADO
+[20Sep2025 23:33:24.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Summoned new Hydra]
+[20Sep2025 23:33:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e
+[20Sep2025 23:33:59.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> E
+[20Sep2025 23:34:00.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NO MAMES
+[20Sep2025 23:34:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
+[20Sep2025 23:34:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> otra cosa
+[20Sep2025 23:34:10.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> esta la hydra
+[20Sep2025 23:34:28.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to abi3mael]
+[20Sep2025 23:34:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Where Is The Stone Pen?]
+[20Sep2025 23:34:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Epic]
+[20Sep2025 23:34:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to abi3mael]
+[20Sep2025 23:35:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Back to childhood]
+[20Sep2025 23:35:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Not even afraid of death]
+[20Sep2025 23:35:30.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Poseidon, God of the Seas]
+[20Sep2025 23:35:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Back to childhood]
+[20Sep2025 23:35:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Not even afraid of death]
+[20Sep2025 23:36:16.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> conviertela en piedra
+[20Sep2025 23:36:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mas izi
+[20Sep2025 23:36:19.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Epic]
+[20Sep2025 23:36:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Magic Writing]
+[20Sep2025 23:37:41.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [The Twelve Labors of Hercules]
+[20Sep2025 23:37:53.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> hmm
+[20Sep2025 23:37:55.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tpiel
+[20Sep2025 23:38:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> O
+[20Sep2025 23:38:11.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> saca
+[20Sep2025 23:38:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> saca el huevo
+[20Sep2025 23:38:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya tenemos 2
+[20Sep2025 23:38:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> los 2 lo podemos usar
+[20Sep2025 23:39:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> miguel pasa el huevo

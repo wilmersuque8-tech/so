@@ -8495,6 +8495,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-09-20 23:35:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/rare_material_pack": {
+    "criteria": {
+      "has_steel_barrel": "2025-09-20 23:37:58 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/steel_pipe": {
+    "criteria": {
+      "has_steel_barrel": "2025-09-20 23:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-09-20 22:40:10 +0000"

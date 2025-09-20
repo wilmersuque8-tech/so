@@ -7530,6 +7530,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-20 23:37:41 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-09-20 23:24:45 +0000"
