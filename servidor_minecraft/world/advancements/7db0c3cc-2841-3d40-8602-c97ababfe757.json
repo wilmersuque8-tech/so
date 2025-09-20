@@ -38,8 +38,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-07 04:35:37 +0000",
+      "minecraft:cherry_grove": "2025-09-20 22:37:56 +0000",
+      "minecraft:sunflower_plains": "2025-09-20 22:48:37 +0000",
       "minecraft:birch_forest": "2025-09-06 23:32:19 +0000",
       "minecraft:windswept_hills": "2025-09-07 23:12:37 +0000",
+      "minecraft:bamboo_jungle": "2025-09-20 23:00:00 +0000",
       "minecraft:savanna_plateau": "2025-08-27 04:06:18 +0000",
       "minecraft:beach": "2025-08-26 05:53:08 +0000",
       "minecraft:dark_forest": "2025-09-19 22:50:21 +0000",
@@ -60,6 +63,8 @@
       "minecraft:snowy_beach": "2025-09-07 04:35:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:40:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 23:34:04 +0000",
+      "minecraft:deep_dark": "2025-09-20 22:34:05 +0000",
+      "minecraft:meadow": "2025-09-20 22:43:55 +0000",
       "minecraft:savanna": "2025-08-26 05:56:58 +0000",
       "minecraft:plains": "2025-08-26 05:40:47 +0000"
     },
@@ -1518,6 +1523,7 @@
       "minecraft:cave_spider": "2025-09-09 23:43:14 +0000",
       "minecraft:piglin": "2025-08-27 05:59:35 +0000",
       "minecraft:enderman": "2025-08-27 04:05:16 +0000",
+      "minecraft:silverfish": "2025-09-20 23:01:42 +0000",
       "minecraft:zombie": "2025-08-26 05:59:15 +0000",
       "minecraft:drowned": "2025-09-04 23:36:08 +0000",
       "minecraft:zombie_villager": "2025-08-26 20:50:31 +0000"
@@ -8473,6 +8479,48 @@
   "superbwarfare:main/enclave": {
     "criteria": {
       "0": "2025-09-19 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/sks_smithing": {
+    "criteria": {
+      "has_sks_blueprint": "2025-09-20 22:27:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ak_47_smithing": {
+    "criteria": {
+      "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-20 22:40:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ak_47_blueprint": {
+    "criteria": {
+      "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/sks_blueprint": {
+    "criteria": {
+      "has_sks_blueprint": "2025-09-20 22:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-20 22:34:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-09-20 23:03:53 +0000"
     },
     "done": true
   },

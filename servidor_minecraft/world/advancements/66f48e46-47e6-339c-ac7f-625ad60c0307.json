@@ -42,6 +42,7 @@
       "minecraft:taiga": "2025-09-07 04:20:36 +0000",
       "minecraft:frozen_river": "2025-09-07 04:32:04 +0000",
       "minecraft:sunflower_plains": "2025-08-28 06:53:52 +0000",
+      "minecraft:cherry_grove": "2025-09-20 22:29:01 +0000",
       "minecraft:birch_forest": "2025-08-30 04:24:04 +0000",
       "minecraft:windswept_hills": "2025-09-07 04:18:26 +0000",
       "minecraft:bamboo_jungle": "2025-09-09 02:30:41 +0000",
@@ -61,6 +62,7 @@
       "minecraft:jagged_peaks": "2025-08-30 03:50:33 +0000",
       "minecraft:cold_ocean": "2025-08-30 04:35:43 +0000",
       "minecraft:forest": "2025-08-26 05:52:33 +0000",
+      "minecraft:lush_caves": "2025-09-20 22:59:40 +0000",
       "minecraft:frozen_ocean": "2025-09-08 02:02:45 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-08 02:03:01 +0000",
       "minecraft:jungle": "2025-08-31 03:54:15 +0000",
@@ -9883,6 +9885,18 @@
   "alexsmobs:alexsmobs/la_cucaracha": {
     "criteria": {
       "tame": "2025-09-19 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-09-20 22:37:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-20 22:41:00 +0000"
     },
     "done": true
   },
