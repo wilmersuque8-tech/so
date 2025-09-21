@@ -53,6 +53,7 @@
       "minecraft:dripstone_caves": "2025-09-06 22:13:04 +0000",
       "minecraft:snowy_taiga": "2025-09-07 04:35:22 +0000",
       "minecraft:grove": "2025-09-07 23:19:34 +0000",
+      "minecraft:jagged_peaks": "2025-09-21 02:14:35 +0000",
       "minecraft:cold_ocean": "2025-09-07 04:36:38 +0000",
       "minecraft:forest": "2025-08-26 05:43:13 +0000",
       "minecraft:frozen_ocean": "2025-09-07 04:35:46 +0000",
@@ -8490,9 +8491,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
+  "superbwarfare:recipes/misc/sks_blueprint": {
     "criteria": {
-      "has_item": "2025-09-20 23:58:15 +0000"
+      "has_sks_blueprint": "2025-09-20 22:27:24 +0000"
     },
     "done": true
   },
@@ -8502,15 +8503,33 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/use_tide_trident": {
+  "superbwarfare:recipes/misc/ak_47_blueprint": {
     "criteria": {
-      "shot_arrow": "2025-09-20 23:35:30 +0000"
+      "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/m_79_blueprint": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
+      "avoid_vibration": "2025-09-20 22:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-20 22:40:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-09-20 23:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-09-20 23:35:30 +0000"
     },
     "done": true
   },
@@ -8523,24 +8542,6 @@
   "superbwarfare:recipes/combat/steel_pipe": {
     "criteria": {
       "has_steel_barrel": "2025-09-20 23:37:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-09-20 23:58:15 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/m_79_smithing": {
-    "criteria": {
-      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-09-20 22:40:10 +0000"
     },
     "done": true
   },
@@ -8562,9 +8563,27 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/ak_47_blueprint": {
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
-      "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
+      "has_item": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
     },
     "done": true
   },
@@ -8586,33 +8605,201 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/sks_blueprint": {
+  "superbwarfare:recipes/misc/m_79_blueprint": {
     "criteria": {
-      "has_sks_blueprint": "2025-09-20 22:27:24 +0000"
+      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "superbwarfare:recipes/combat/m_79_smithing": {
     "criteria": {
-      "avoid_vibration": "2025-09-20 22:34:21 +0000"
+      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tame_gorilla": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "tame": "2025-09-20 23:03:53 +0000"
+      "coded_trigger": "2025-09-21 02:16:54 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_item": "2025-09-20 23:54:08 +0000"
+      "has_snowball": "2025-09-21 02:14:21 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_item": "2025-09-20 23:54:08 +0000"
+      "has_compass": "2025-09-21 02:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-09-21 01:14:42 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb_rc": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ap_head": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 01:01:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/agm": {
+    "criteria": {
+      "has_missile_engine": "2025-09-21 02:01:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-09-21 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-09-21 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-09-21 01:13:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-09-21 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-21 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-21 02:14:21 +0000"
     },
     "done": true
   },

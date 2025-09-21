@@ -55,6 +55,7 @@
       "minecraft:savanna_plateau": "2025-09-06 21:54:39 +0000",
       "minecraft:beach": "2025-09-06 21:35:50 +0000",
       "minecraft:dark_forest": "2025-09-19 23:04:18 +0000",
+      "minecraft:mangrove_swamp": "2025-09-21 00:27:03 +0000",
       "minecraft:sparse_jungle": "2025-09-06 21:47:06 +0000",
       "minecraft:river": "2025-09-06 21:08:43 +0000",
       "minecraft:lukewarm_ocean": "2025-09-06 21:37:18 +0000",
@@ -3403,6 +3404,7 @@
       "minecraft:skeleton": "2025-09-07 00:43:45 +0000",
       "minecraft:spider": "2025-09-06 22:54:44 +0000",
       "minecraft:creeper": "2025-09-07 00:43:53 +0000",
+      "minecraft:piglin": "2025-09-21 01:07:50 +0000",
       "minecraft:enderman": "2025-09-07 01:02:15 +0000",
       "minecraft:zombie": "2025-09-06 22:47:31 +0000"
     },
@@ -5670,9 +5672,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_item": "2025-09-20 23:42:35 +0000"
+      "has_beef": "2025-09-20 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-20 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-20 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-20 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-20 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-20 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-20 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-20 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_1911_smithing": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-09-20 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_1911_blueprint": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-09-20 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-20 22:37:40 +0000"
     },
     "done": true
   },
@@ -5688,15 +5750,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "coded_trigger": "2025-09-20 23:45:42 +0000"
+      "has_azure_bluet": "2025-09-20 22:44:30 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/netherite_arrow": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
-      "has_bow": "2025-09-20 22:26:08 +0000"
+      "has_wild_armor_trim_smithing_template": "2025-09-20 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-20 22:53:29 +0000"
     },
     "done": true
   },
@@ -5706,27 +5774,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-09-20 22:24:08 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/ntw_20_smithing": {
-    "criteria": {
-      "has_ntw_20_blueprint": "2025-09-20 23:46:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-20 23:34:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-20 22:24:08 +0000"
     },
     "done": true
   },
@@ -5742,21 +5792,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-09-20 22:26:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-09-20 23:34:49 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/k_98_smithing": {
-    "criteria": {
-      "has_k_98_blueprint": "2025-09-20 23:36:17 +0000"
     },
     "done": true
   },
@@ -5766,9 +5804,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_beef": "2025-09-20 22:24:08 +0000"
+      "has_planks": "2025-09-20 23:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:34:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-09-20 23:35:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-09-20 23:35:39 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/k_98_smithing": {
+    "criteria": {
+      "has_k_98_blueprint": "2025-09-20 23:36:17 +0000"
     },
     "done": true
   },
@@ -5784,105 +5852,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/m_1911_smithing": {
-    "criteria": {
-      "has_m_1911_blueprint": "2025-09-20 22:28:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-09-20 22:37:40 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:main/epic_blueprint": {
     "criteria": {
       "0": "2025-09-20 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-09-21 00:05:17 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ntw_20_blueprint": {
-    "criteria": {
-      "has_ntw_20_blueprint": "2025-09-20 23:46:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:34:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-09-20 23:35:39 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/m_1911_blueprint": {
-    "criteria": {
-      "has_m_1911_blueprint": "2025-09-20 22:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:34:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-09-20 22:26:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-09-20 22:53:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-09-20 22:44:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-20 22:53:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-20 22:24:08 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/legendary_blueprint": {
-    "criteria": {
-      "0": "2025-09-20 23:46:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-09-20 23:40:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:34:49 +0000"
     },
     "done": true
   },
@@ -5898,15 +5870,215 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-09-20 23:35:39 +0000"
+      "coded_trigger": "2025-09-20 23:40:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "has_beef": "2025-09-20 22:24:08 +0000"
+      "has_item": "2025-09-20 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-09-20 23:45:42 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ntw_20_smithing": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-20 23:46:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ntw_20_blueprint": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-20 23:46:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/legendary_blueprint": {
+    "criteria": {
+      "0": "2025-09-20 23:46:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-21 00:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-21 01:00:25 +0000",
+      "minecraft:nether_wastes": "2025-09-21 01:04:23 +0000",
+      "minecraft:soul_sand_valley": "2025-09-21 00:56:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-21 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-21 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-21 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-21 00:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-21 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-21 00:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-21 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/empty_perk": {
+    "criteria": {
+      "has_paper": "2025-09-21 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-21 00:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-21 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-21 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-21 01:27:46 +0000"
     },
     "done": true
   },

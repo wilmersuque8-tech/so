@@ -1995,6 +1995,7 @@
       "cooked_beef": "2025-09-08 05:29:24 +0000",
       "beef": "2025-09-08 02:36:31 +0000",
       "baked_potato": "2025-09-08 06:23:13 +0000",
+      "apple": "2025-09-21 01:23:37 +0000",
       "potato": "2025-09-08 06:23:05 +0000",
       "mutton": "2025-09-08 02:00:05 +0000",
       "bread": "2025-09-06 20:21:07 +0000",
@@ -2421,6 +2422,7 @@
       "minecraft:hoglin": "2025-09-08 02:53:38 +0000",
       "minecraft:magma_cube": "2025-09-06 03:06:31 +0000",
       "minecraft:spider": "2025-09-06 02:38:25 +0000",
+      "minecraft:piglin_brute": "2025-09-21 00:32:39 +0000",
       "minecraft:creeper": "2025-09-06 20:21:57 +0000",
       "minecraft:phantom": "2025-09-06 21:38:41 +0000",
       "minecraft:zombified_piglin": "2025-09-07 03:38:27 +0000",
@@ -3106,10 +3108,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-08 02:49:36 +0000",
       "minecraft:nether_wastes": "2025-09-06 02:39:18 +0000",
+      "minecraft:soul_sand_valley": "2025-09-21 00:20:57 +0000",
       "minecraft:basalt_deltas": "2025-09-06 02:53:10 +0000",
       "minecraft:warped_forest": "2025-09-06 02:50:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -7534,21 +7537,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "has_item": "2025-09-21 00:04:15 +0000"
+      "killed_by": "2025-09-20 23:16:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
-      "has_log": "2025-09-20 23:51:59 +0000"
+      "has_item": "2025-09-20 23:21:39 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
+  "iceandfire:recipes/combat/armor_electric_boots": {
     "criteria": {
-      "has_item": "2025-09-21 00:04:15 +0000"
+      "has_item": "2025-09-20 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-09-20 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-09-20 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-09-20 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-09-20 23:24:45 +0000"
     },
     "done": true
   },
@@ -7558,9 +7585,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "has_item": "2025-09-21 00:04:15 +0000"
+      "leafcutter_ant_pupa": "2025-09-20 23:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-20 23:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-09-20 23:51:59 +0000"
     },
     "done": true
   },
@@ -7582,12 +7621,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-09-20 23:24:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-09-20 23:52:05 +0000"
@@ -7600,51 +7633,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_electric_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-20 23:21:39 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-09-20 23:16:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_boots": {
-    "criteria": {
-      "has_item": "2025-09-20 23:21:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_helmet": {
-    "criteria": {
-      "has_item": "2025-09-20 23:21:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-09-20 23:52:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-09-20 23:51:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2025-09-20 23:21:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-09-21 00:04:15 +0000"
     },
     "done": true
   },
@@ -7654,13 +7645,13 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
+  "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_item": "2025-09-20 23:21:39 +0000"
+      "has_planks": "2025-09-20 23:52:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-20 23:52:05 +0000"
     },
@@ -7672,9 +7663,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
-      "has_logs": "2025-09-20 23:51:59 +0000"
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
     },
     "done": true
   },
@@ -7684,9 +7693,207 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_planks": "2025-09-20 23:52:05 +0000"
+      "has_soul_sand": "2025-09-21 00:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-21 00:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-09-21 01:48:44 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-21 01:43:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-09-21 02:00:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-09-21 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-21 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-09-21 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-21 01:50:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-09-21 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 01:43:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-21 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-21 02:23:07 +0000"
     },
     "done": true
   },
