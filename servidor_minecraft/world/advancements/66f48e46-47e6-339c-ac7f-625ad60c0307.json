@@ -935,6 +935,7 @@
       "minecraft:spider": "2025-08-26 05:43:38 +0000",
       "minecraft:piglin_brute": "2025-08-27 06:00:27 +0000",
       "minecraft:creeper": "2025-08-26 05:52:30 +0000",
+      "minecraft:wither": "2025-09-21 06:02:34 +0000",
       "minecraft:phantom": "2025-08-28 07:11:26 +0000",
       "minecraft:zombified_piglin": "2025-08-29 05:17:22 +0000",
       "minecraft:witch": "2025-09-04 22:52:45 +0000",
@@ -10008,6 +10009,84 @@
   "securitycraft:recipes/building_blocks/reinforced_glass": {
     "criteria": {
       "has_item": "2025-09-21 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2025-09-21 03:54:46 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/trachelium_smithing": {
+    "criteria": {
+      "has_trachelium_blueprint": "2025-09-21 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/trachelium_blueprint": {
+    "criteria": {
+      "has_trachelium_blueprint": "2025-09-21 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-09-21 04:05:26 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_4_blueprint": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-21 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_4_smithing": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-21 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 04:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-21 04:58:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-21 06:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-09-21 06:03:59 +0000"
     },
     "done": true
   },

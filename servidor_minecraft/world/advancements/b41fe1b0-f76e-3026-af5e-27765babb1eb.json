@@ -8156,5 +8156,173 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blackstone_wall": {
+    "criteria": {
+      "has_block": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-21 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_bricks_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-21 04:53:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_stairs": {
+    "criteria": {
+      "has_block": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_polished_blackstone_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_slab": {
+    "criteria": {
+      "has_block": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-09-21 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone": {
+    "criteria": {
+      "has_block": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-09-21 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-21 03:43:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

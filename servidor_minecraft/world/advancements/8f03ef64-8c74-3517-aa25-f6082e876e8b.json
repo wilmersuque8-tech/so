@@ -1802,9 +1802,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-09-21 05:30:57 +0000",
       "minecraft:skeleton": "2025-09-19 04:19:38 +0000",
       "minecraft:spider": "2025-09-19 04:29:47 +0000",
       "minecraft:creeper": "2025-09-21 00:13:39 +0000",
+      "minecraft:wither": "2025-09-21 06:01:57 +0000",
+      "minecraft:wither_skeleton": "2025-09-21 05:30:57 +0000",
+      "minecraft:piglin": "2025-09-21 05:57:27 +0000",
       "minecraft:zombie": "2025-09-20 21:54:23 +0000",
       "minecraft:drowned": "2025-09-20 23:24:36 +0000"
     },
@@ -2028,6 +2032,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-21 05:08:27 +0000",
       "cooked_beef": "2025-09-20 21:58:37 +0000",
       "beef": "2025-09-20 23:11:01 +0000",
       "apple": "2025-09-19 04:24:45 +0000",
@@ -4896,6 +4901,482 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-09-21 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blackstone_wall": {
+    "criteria": {
+      "has_block": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_bricks_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_stairs": {
+    "criteria": {
+      "has_block": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_polished_blackstone_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blackstone_slab": {
+    "criteria": {
+      "has_block": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_stairs_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_slab_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone": {
+    "criteria": {
+      "has_block": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_wall_from_reinforced_blackstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_blackstone": "2025-09-21 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/sks_smithing": {
+    "criteria": {
+      "has_sks_blueprint": "2025-09-21 04:20:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/sks_blueprint": {
+    "criteria": {
+      "has_sks_blueprint": "2025-09-21 04:20:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_870_smithing": {
+    "criteria": {
+      "has_m_870_blueprint": "2025-09-21 04:21:03 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_870_blueprint": {
+    "criteria": {
+      "has_m_870_blueprint": "2025-09-21 04:21:03 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_98b_blueprint": {
+    "criteria": {
+      "has_m_98b_blueprint": "2025-09-21 04:31:22 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_98b_smithing": {
+    "criteria": {
+      "has_m_98b_blueprint": "2025-09-21 04:31:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-09-21 04:37:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 04:43:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-09-21 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-21 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-09-21 05:19:47 +0000",
+      "minecraft:nether_wastes": "2025-09-21 05:49:44 +0000",
+      "minecraft:basalt_deltas": "2025-09-21 05:30:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-21 05:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-21 05:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-21 05:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-09-21 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/speedboat": {
+    "criteria": {
+      "has_m_2_hb": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-21 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/decorations/barbed_wire": {
+    "criteria": {
+      "has_iron_bars": "2025-09-21 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-21 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-21 05:30:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 06:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-21 05:53:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-09-21 05:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-21 06:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-21 05:53:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-09-21 05:59:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-21 05:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-21 05:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-21 05:59:41 +0000"
     },
     "done": true
   },

@@ -8876,5 +8876,71 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/m_98b_blueprint": {
+    "criteria": {
+      "has_m_98b_blueprint": "2025-09-21 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_98b_smithing": {
+    "criteria": {
+      "has_m_98b_blueprint": "2025-09-21 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-21 06:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-09-21 05:40:58 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-21 04:14:53 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
+    "criteria": {
+      "has_smithing_table": "2025-09-21 04:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-21 06:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-21 05:40:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 04:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-21 05:40:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
