@@ -1496,6 +1496,7 @@
       "onion": "2025-08-26 06:02:02 +0000",
       "tomato": "2025-08-26 06:01:25 +0000",
       "rice": "2025-09-06 22:40:23 +0000",
+      "kelp": "2025-09-21 02:50:37 +0000",
       "beetroot": "2025-08-26 06:02:08 +0000",
       "brown_mushroom": "2025-09-04 23:40:16 +0000",
       "sugar_cane": "2025-08-26 06:44:45 +0000",
@@ -8617,57 +8618,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
-      "coded_trigger": "2025-09-21 02:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-09-21 02:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-09-21 02:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_the_recipe": "2025-09-21 01:14:42 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/c4_bomb_rc": {
-    "criteria": {
-      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ap_head": {
-    "criteria": {
-      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_recall": {
-    "criteria": {
-      "coded_trigger": "2025-09-21 01:01:18 +0000"
+      "killed": "2025-09-21 00:25:17 +0000"
     },
     "done": true
   },
@@ -8677,51 +8630,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/agm": {
-    "criteria": {
-      "has_missile_engine": "2025-09-21 02:01:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/mountain_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-09-21 00:37:45 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-09-21 00:25:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
     },
     "done": true
   },
@@ -8731,9 +8642,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
+      "kill_mob_near_sculk_catalyst": "2025-09-21 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-21 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 01:01:18 +0000"
     },
     "done": true
   },
@@ -8743,15 +8666,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-09-21 01:14:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
-      "has_planks": "2025-09-21 01:54:20 +0000"
+      "cooked_mutton_chops": "2025-09-21 01:37:50 +0000"
     },
     "done": true
   },
@@ -8761,9 +8690,51 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/c4_bomb": {
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
-      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-09-21 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-21 01:54:20 +0000"
     },
     "done": true
   },
@@ -8785,21 +8756,123 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "superbwarfare:recipes/combat/agm": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-09-21 00:38:52 +0000"
+      "has_missile_engine": "2025-09-21 02:01:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_raw_iron_block": "2025-09-21 00:41:18 +0000"
+      "has_compass": "2025-09-21 02:05:25 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb_rc": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ap_head": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-09-21 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-21 02:14:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-09-21 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-09-21 02:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-21 02:54:01 +0000"
     },
     "done": true
   },

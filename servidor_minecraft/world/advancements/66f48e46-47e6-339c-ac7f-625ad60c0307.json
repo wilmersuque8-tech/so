@@ -2147,6 +2147,7 @@
     "criteria": {
       "tomato": "2025-08-26 21:58:51 +0000",
       "rice": "2025-08-26 22:00:06 +0000",
+      "kelp": "2025-09-21 03:06:03 +0000",
       "brown_mushroom": "2025-09-04 23:39:55 +0000",
       "sugar_cane": "2025-08-27 05:10:08 +0000",
       "potato": "2025-08-27 04:28:29 +0000",
@@ -9995,6 +9996,18 @@
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-09-21 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_sandstone": {
+    "criteria": {
+      "has_block": "2025-09-21 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass": {
+    "criteria": {
+      "has_item": "2025-09-21 03:05:59 +0000"
     },
     "done": true
   },
