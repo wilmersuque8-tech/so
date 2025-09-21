@@ -44,12 +44,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-06 23:31:30 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-09-21 00:02:58 +0000",
+      "minecraft:taiga": "2025-09-20 23:59:45 +0000",
       "minecraft:cherry_grove": "2025-09-07 00:37:08 +0000",
       "minecraft:sunflower_plains": "2025-09-08 04:51:31 +0000",
       "minecraft:birch_forest": "2025-09-08 02:03:01 +0000",
       "minecraft:bamboo_jungle": "2025-09-20 23:20:58 +0000",
       "minecraft:savanna_plateau": "2025-09-08 06:01:58 +0000",
       "minecraft:beach": "2025-09-08 02:03:11 +0000",
+      "minecraft:dark_forest": "2025-09-20 23:56:37 +0000",
       "minecraft:sparse_jungle": "2025-09-08 05:06:01 +0000",
       "minecraft:river": "2025-09-06 01:27:08 +0000",
       "minecraft:lukewarm_ocean": "2025-09-20 23:09:01 +0000",
@@ -61,6 +64,7 @@
       "minecraft:lush_caves": "2025-09-08 04:24:17 +0000",
       "minecraft:ocean": "2025-09-08 02:01:27 +0000",
       "minecraft:jungle": "2025-09-20 22:59:25 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-21 00:01:26 +0000",
       "minecraft:windswept_savanna": "2025-09-20 23:09:07 +0000",
       "minecraft:flower_forest": "2025-08-30 04:01:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-08 05:03:45 +0000",
@@ -7530,15 +7534,69 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-20 23:51:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_hydra": {
     "criteria": {
       "killed_fire_dragon": "2025-09-20 23:37:41 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-09-20 23:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
     },
     "done": true
   },
@@ -7566,15 +7624,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-09-20 23:51:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-09-20 23:21:39 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-09-20 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-09-21 00:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-09-20 23:51:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-09-21 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-20 23:52:05 +0000"
     },
     "done": true
   },

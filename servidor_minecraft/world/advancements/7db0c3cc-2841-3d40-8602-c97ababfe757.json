@@ -1510,6 +1510,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-09-06 02:52:21 +0000",
+      "minecraft:pillager": "2025-09-20 23:49:01 +0000",
       "minecraft:skeleton": "2025-08-26 06:19:02 +0000",
       "minecraft:ghast": "2025-09-06 03:22:18 +0000",
       "minecraft:hoglin": "2025-09-06 02:38:48 +0000",
@@ -8489,6 +8490,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/combat/ak_47_smithing": {
     "criteria": {
       "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
@@ -8498,6 +8505,12 @@
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2025-09-20 23:35:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_79_blueprint": {
+    "criteria": {
+      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
     },
     "done": true
   },
@@ -8513,15 +8526,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_79_smithing": {
+    "criteria": {
+      "has_m_79_blueprint": "2025-09-21 00:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-09-20 22:40:10 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/ak_47_blueprint": {
     "criteria": {
       "has_ak_47_blueprint": "2025-09-20 22:31:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-09-20 23:58:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-09-20 23:58:15 +0000"
     },
     "done": true
   },
@@ -8540,6 +8601,18 @@
   "alexsmobs:alexsmobs/tame_gorilla": {
     "criteria": {
       "tame": "2025-09-20 23:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-20 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-20 23:54:08 +0000"
     },
     "done": true
   },
