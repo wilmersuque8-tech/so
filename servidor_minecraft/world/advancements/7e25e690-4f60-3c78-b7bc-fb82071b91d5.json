@@ -1040,6 +1040,7 @@
       "golden_apple": "2025-09-07 00:19:44 +0000",
       "suspicious_stew": "2025-08-27 06:03:19 +0000",
       "melon_slice": "2025-08-30 06:01:22 +0000",
+      "golden_carrot": "2025-09-22 01:55:15 +0000",
       "cooked_chicken": "2025-08-30 05:57:54 +0000",
       "enchanted_golden_apple": "2025-09-08 04:45:08 +0000",
       "cooked_salmon": "2025-09-09 03:22:29 +0000",
@@ -8921,6 +8922,60 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-09-21 03:27:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-22 01:47:38 +0000"
     },
     "done": true
   },

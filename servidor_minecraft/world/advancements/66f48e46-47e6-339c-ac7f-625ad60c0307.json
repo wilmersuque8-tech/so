@@ -10060,6 +10060,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-21 06:01:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-09-21 06:02:34 +0000"
@@ -10069,12 +10075,6 @@
   "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
       "has_nether_star": "2025-09-21 06:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-09-21 06:01:42 +0000"
     },
     "done": true
   },
