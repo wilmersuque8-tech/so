@@ -1069,3 +1069,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [22Sep2025 01:31:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Drowned
 [22Sep2025 01:31:20.817] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
 [22Sep2025 01:31:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que mierda
+[22Sep2025 01:38:44.964] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "elikernomamahuev" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-257, y=105, z=1691}] too quickly!
+[22Sep2025 01:43:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has reached the goal [Flowers of the Savanna]
