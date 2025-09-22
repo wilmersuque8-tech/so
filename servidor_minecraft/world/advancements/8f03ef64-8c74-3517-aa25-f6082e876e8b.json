@@ -5417,6 +5417,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-09-22 02:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
@@ -5450,6 +5456,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-09-22 02:24:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-09-22 02:27:16 +0000"
     },
     "done": true
   },
@@ -5552,6 +5564,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-22 02:33:35 +0000"
     },
     "done": true
   },

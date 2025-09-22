@@ -4499,3 +4499,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [22Sep2025 02:25:12.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Sep2025 02:25:12.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Sep2025 02:25:34.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[22Sep2025 02:27:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [En Garde!]
+[22Sep2025 02:30:12.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 02:30:12.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 02:33:35.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Crops of the Wild]
+[22Sep2025 02:35:12.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 02:35:12.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
