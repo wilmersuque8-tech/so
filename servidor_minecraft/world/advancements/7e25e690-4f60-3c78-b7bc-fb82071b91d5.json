@@ -8925,6 +8925,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-09-22 02:15:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-09-22 01:47:38 +0000"

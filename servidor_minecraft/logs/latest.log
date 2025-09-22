@@ -1098,3 +1098,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [22Sep2025 01:58:15.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1452, y=71, z=-330} BlockPos{x=-1452, y=71, z=-329}
 [22Sep2025 01:58:15.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1452, y=71, z=-330} BlockPos{x=-1452, y=71, z=-329}
 [22Sep2025 01:58:15.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1452, y=71, z=-330} BlockPos{x=-1452, y=71, z=-329}
+[22Sep2025 02:05:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael tried to swim in lava
+[22Sep2025 02:05:49.771] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[22Sep2025 02:06:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael tried to swim in lava
+[22Sep2025 02:06:27.023] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[22Sep2025 02:07:10.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael tried to swim in lava
+[22Sep2025 02:07:10.336] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[22Sep2025 02:08:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
+[22Sep2025 02:15:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has reached the goal [Plant Food]
+[22Sep2025 02:16:12.569] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Sep2025 02:17:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me voy a ir a bañiar
+[22Sep2025 02:17:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo
+[22Sep2025 02:17:05.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[22Sep2025 02:17:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
