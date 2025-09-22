@@ -10151,5 +10151,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-09-22 03:26:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

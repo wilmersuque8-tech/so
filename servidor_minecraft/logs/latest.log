@@ -3059,3 +3059,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [22Sep2025 03:13:42.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1436, y=23, z=-258} BlockPos{x=-1436, y=24, z=-258}
 [22Sep2025 03:13:42.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1436, y=23, z=-258} BlockPos{x=-1436, y=24, z=-258}
 [22Sep2025 03:18:14.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: The difficulty has been set to Hard]
+[22Sep2025 03:29:24.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> [x:-2229, y:62, z:-112, dim:minecraft:overworld]
+[22Sep2025 03:29:53.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to -2228.500000, 62.000000, -111.500000]
+[22Sep2025 03:30:00.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2247, y=56, z=-112} BlockPos{x=-2246, y=54, z=-112}
+[22Sep2025 03:31:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Removed every effect from rexsel]
+[22Sep2025 03:31:28.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> el orcalero orcala
+[22Sep2025 03:31:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Enderman
+[22Sep2025 03:31:37.322] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[22Sep2025 03:32:27.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> ./dar perla a abimael
+[22Sep2025 03:32:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 1 [Ender Pearl] to abi3mael]
+[22Sep2025 03:34:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
+[22Sep2025 03:35:15.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> duernam
+[22Sep2025 03:35:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> duerman
+[22Sep2025 03:35:18.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> zz
+[22Sep2025 03:35:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:18.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:18.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:18.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> z
+[22Sep2025 03:35:19.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> zz
