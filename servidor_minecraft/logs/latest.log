@@ -1,15 +1,15 @@
-[21Sep2025 03:39:54.960] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[21Sep2025 03:39:54.964] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[21Sep2025 03:39:55.525] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Sep2025 03:39:55.589] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/so/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Sep2025 03:39:55.960] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Sep2025 03:39:55.965] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Sep2025 03:39:55.980] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Sep2025 03:39:55.982] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Sep2025 03:39:56.137] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[21Sep2025 03:39:58.189] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Sep2025 03:39:58.282] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Sep2025 03:39:58.472] [main/INFO] [Puzzles Lib/]: Loading 27 mods:
+[22Sep2025 01:14:23.538] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Sep2025 01:14:23.545] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[22Sep2025 01:14:28.088] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Sep2025 01:14:28.222] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/so/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Sep2025 01:14:28.772] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Sep2025 01:14:28.773] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Sep2025 01:14:28.774] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Sep2025 01:14:28.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/so/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Sep2025 01:14:29.176] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[22Sep2025 01:14:31.597] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Sep2025 01:14:31.645] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Sep2025 01:14:31.919] [main/INFO] [Puzzles Lib/]: Loading 27 mods:
 	- alexsmobs 1.22.9
 	- butcher 3.6.1
 	- citadel 2.6.1
@@ -37,25 +37,25 @@
 	- spartanweaponry 3.1.3
 	- superbwarfare 0.8.7
 	- tombstone 9.0.9
-[21Sep2025 03:39:58.481] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Sep2025 03:39:59.709] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21Sep2025 03:40:06.513] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[21Sep2025 03:40:07.060] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[21Sep2025 03:40:07.474] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[21Sep2025 03:40:07.475] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[21Sep2025 03:40:07.483] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[21Sep2025 03:40:07.862] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
-[21Sep2025 03:40:07.968] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[21Sep2025 03:40:08.413] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Sep2025 03:40:08.414] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Sep2025 03:40:13.312] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[21Sep2025 03:40:13.315] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[21Sep2025 03:40:13.321] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[21Sep2025 03:40:13.469] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[21Sep2025 03:40:13.569] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[21Sep2025 03:40:13.819] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
-[21Sep2025 03:40:13.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[21Sep2025 03:40:14.313] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Sep2025 01:14:31.924] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Sep2025 01:14:33.176] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Sep2025 01:14:41.031] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[22Sep2025 01:14:41.617] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[22Sep2025 01:14:41.679] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[22Sep2025 01:14:41.679] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[22Sep2025 01:14:41.688] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[22Sep2025 01:14:42.001] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[22Sep2025 01:14:42.087] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Sep2025 01:14:42.687] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Sep2025 01:14:42.687] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Sep2025 01:14:46.771] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Sep2025 01:14:46.773] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Sep2025 01:14:46.776] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Sep2025 01:14:46.891] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[22Sep2025 01:14:46.979] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[22Sep2025 01:14:47.218] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
+[22Sep2025 01:14:47.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22Sep2025 01:14:47.892] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -70,22 +70,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[21Sep2025 03:40:14.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[21Sep2025 03:40:14.505] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[21Sep2025 03:40:14.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[21Sep2025 03:40:14.543] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[21Sep2025 03:40:14.545] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[21Sep2025 03:40:14.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[21Sep2025 03:40:14.548] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.atsuishio.superbwarfare.compat.jade.SbwJadePlugin
-[21Sep2025 03:40:14.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[21Sep2025 03:40:14.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[21Sep2025 03:40:14.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.9 Target: null
-[21Sep2025 03:40:14.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
-[21Sep2025 03:40:14.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[21Sep2025 03:40:14.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[21Sep2025 03:40:14.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
-[21Sep2025 03:40:14.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[21Sep2025 03:40:14.713] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Sep2025 01:14:47.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22Sep2025 01:14:48.028] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Sep2025 01:14:48.064] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Sep2025 01:14:48.069] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Sep2025 01:14:48.071] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[22Sep2025 01:14:48.075] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[22Sep2025 01:14:48.076] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.atsuishio.superbwarfare.compat.jade.SbwJadePlugin
+[22Sep2025 01:14:48.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[22Sep2025 01:14:48.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[22Sep2025 01:14:48.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.9 Target: null
+[22Sep2025 01:14:48.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[22Sep2025 01:14:48.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[22Sep2025 01:14:48.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Sep2025 01:14:48.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
+[22Sep2025 01:14:48.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Sep2025 01:14:48.205] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -100,23 +100,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[21Sep2025 03:40:14.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[21Sep2025 03:40:14.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[21Sep2025 03:40:14.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Sep2025 03:40:14.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[21Sep2025 03:40:17.995] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Sep2025 03:40:20.371] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/so/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
-[21Sep2025 03:40:20.372] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/so/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
-[21Sep2025 03:40:21.413] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[21Sep2025 03:40:21.440] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[21Sep2025 03:40:21.563] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
+[22Sep2025 01:14:48.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Sep2025 01:14:48.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[22Sep2025 01:14:48.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Sep2025 01:14:48.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Sep2025 01:14:52.312] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Sep2025 01:14:54.798] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/so/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
+[22Sep2025 01:14:54.799] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/so/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
+[22Sep2025 01:14:55.987] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[22Sep2025 01:14:56.019] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Sep2025 01:14:56.169] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:golden_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:diamond_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:netherite_machete (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[21Sep2025 03:40:21.564] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[21Sep2025 03:40:21.573] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[21Sep2025 03:40:21.574] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[21Sep2025 03:40:21.977] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
+[22Sep2025 01:14:56.170] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[22Sep2025 01:14:56.175] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[22Sep2025 01:14:56.175] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[22Sep2025 01:14:56.692] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -168,15 +168,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[21Sep2025 03:40:22.046] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[21Sep2025 03:40:22.055] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[21Sep2025 03:40:22.095] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[21Sep2025 03:40:22.195] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[21Sep2025 03:40:22.207] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[21Sep2025 03:40:22.207] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.227] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[21Sep2025 03:40:22.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
+[22Sep2025 01:14:56.772] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[22Sep2025 01:14:56.783] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[22Sep2025 01:14:56.839] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[22Sep2025 01:14:56.950] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[22Sep2025 01:14:56.961] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Sep2025 01:14:56.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[22Sep2025 01:14:56.984] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Sep2025 01:14:56.984] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[22Sep2025 01:14:56.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -205,7 +205,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.246] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
+[22Sep2025 01:14:56.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -234,9 +234,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.251] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[21Sep2025 03:40:22.251] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.258] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
+[22Sep2025 01:14:57.003] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Sep2025 01:14:57.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[22Sep2025 01:14:57.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -265,7 +265,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
+[22Sep2025 01:14:57.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -294,15 +294,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.295] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[21Sep2025 03:40:22.295] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[21Sep2025 03:40:22.302] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[21Sep2025 03:40:22.302] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[21Sep2025 03:40:22.320] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[21Sep2025 03:40:22.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[21Sep2025 03:40:22.320] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[21Sep2025 03:40:22.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.332] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
+[22Sep2025 01:14:57.047] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Sep2025 01:14:57.047] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[22Sep2025 01:14:57.056] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Sep2025 01:14:57.056] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[22Sep2025 01:14:57.084] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Sep2025 01:14:57.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[22Sep2025 01:14:57.085] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Sep2025 01:14:57.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[22Sep2025 01:14:57.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -331,7 +331,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.345] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
+[22Sep2025 01:14:57.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -360,7 +360,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.349] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
+[22Sep2025 01:14:57.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -389,7 +389,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.350] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
+[22Sep2025 01:14:57.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -418,7 +418,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.358] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
+[22Sep2025 01:14:57.118] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -447,7 +447,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.362] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
+[22Sep2025 01:14:57.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -476,7 +476,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.365] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
+[22Sep2025 01:14:57.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
@@ -509,11 +509,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.378] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[21Sep2025 03:40:22.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.379] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[21Sep2025 03:40:22.379] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[21Sep2025 03:40:22.383] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
+[22Sep2025 01:14:57.135] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Sep2025 01:14:57.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[22Sep2025 01:14:57.136] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Sep2025 01:14:57.136] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[22Sep2025 01:14:57.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -542,7 +542,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.399] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
+[22Sep2025 01:14:57.153] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -571,7 +571,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.406] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
+[22Sep2025 01:14:57.160] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
@@ -604,7 +604,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
+[22Sep2025 01:14:57.165] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -642,7 +642,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
+[22Sep2025 01:14:57.177] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,7 +671,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.430] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
+[22Sep2025 01:14:57.184] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -700,9 +700,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.439] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[21Sep2025 03:40:22.440] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[21Sep2025 03:40:22.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
+[22Sep2025 01:14:57.192] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Sep2025 01:14:57.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[22Sep2025 01:14:57.194] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -731,7 +731,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
+[22Sep2025 01:14:57.195] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -760,9 +760,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.449] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[21Sep2025 03:40:22.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[21Sep2025 03:40:22.456] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
+[22Sep2025 01:14:57.198] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Sep2025 01:14:57.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[22Sep2025 01:14:57.203] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -791,7 +791,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.460] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
+[22Sep2025 01:14:57.208] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -820,7 +820,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.461] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
+[22Sep2025 01:14:57.210] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -849,7 +849,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.476] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
+[22Sep2025 01:14:57.221] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -878,9 +878,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.478] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[21Sep2025 03:40:22.479] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[21Sep2025 03:40:22.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
+[22Sep2025 01:14:57.223] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Sep2025 01:14:57.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[22Sep2025 01:14:57.224] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -909,7 +909,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.480] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
+[22Sep2025 01:14:57.225] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:glassworking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -938,7 +938,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:gla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
+[22Sep2025 01:14:57.228] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
@@ -971,7 +971,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
+[22Sep2025 01:14:57.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1000,454 +1000,72 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Sep2025 03:40:22.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[21Sep2025 03:40:22.528] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[21Sep2025 03:40:22.591] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[21Sep2025 03:40:22.608] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[21Sep2025 03:40:22.613] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[21Sep2025 03:40:22.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3734 advancements
-[21Sep2025 03:40:22.674] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[21Sep2025 03:40:22.681] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[21Sep2025 03:40:24.797] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.899864ms
-[21Sep2025 03:40:24.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Sep2025 03:40:24.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Sep2025 03:40:24.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Sep2025 03:40:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Sep2025 03:40:25.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Sep2025 03:40:25.027] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Sep2025 03:40:25.107] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Sep2025 03:40:25.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Sep2025 03:40:25.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Sep2025 03:40:25.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Sep2025 03:40:25.142] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
-[21Sep2025 03:40:25.144] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[21Sep2025 03:40:25.248] [Server thread/INFO] [Framework/]: Loading server configs...
-[21Sep2025 03:40:25.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Sep2025 03:40:27.382] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Sep2025 03:40:28.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Sep2025 03:40:31.803] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.822] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.838] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.886] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.905] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:31.932] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:32.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Sep2025 03:40:32.518] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[21Sep2025 03:40:33.018] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[21Sep2025 03:40:33.246] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4730 ms
-[21Sep2025 03:40:33.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.127s)! For help, type "help"
-[21Sep2025 03:40:33.309] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Sep2025 03:40:33.339] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[21Sep2025 03:40:33.340] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[21Sep2025 03:40:44.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:50779] logged in with entity id 516 at (-1459.4850600972754, 71.0, -330.9435997574055)
-[21Sep2025 03:40:44.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 03:40:45.058] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 03:40:47.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
-[21Sep2025 03:40:50.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:44235] logged in with entity id 812 at (-1377.3167940547337, 72.02442408821369, -366.4287184586875)
-[21Sep2025 03:40:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
-[21Sep2025 03:40:50.179] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
-[21Sep2025 03:40:51.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:58227] logged in with entity id 845 at (-1458.300000011921, 70.0, -330.3566468077684)
-[21Sep2025 03:40:51.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[21Sep2025 03:40:51.422] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
-[21Sep2025 03:41:31.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.37.28.23:53831] logged in with entity id 1068 at (-1614.8465633277774, 98.0, 1689.3336144464108)
-[21Sep2025 03:41:31.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
-[21Sep2025 03:41:31.991] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
-[21Sep2025 03:41:33.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKEGaming lost connection: Disconnected
-[21Sep2025 03:41:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming left the game
-[21Sep2025 03:41:33.298] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[21Sep2025 03:41:39.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.37.28.23:44983] logged in with entity id 1101 at (-1614.8465633277774, 98.0, 1689.3336144464108)
-[21Sep2025 03:41:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
-[21Sep2025 03:41:39.221] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
-[21Sep2025 03:41:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was killed
-[21Sep2025 03:41:40.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed MIKEGaming]
-[21Sep2025 03:41:40.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKEGaming lost connection: Disconnected
-[21Sep2025 03:41:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming left the game
-[21Sep2025 03:41:40.367] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 03:41:44.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.37.28.23:53853] logged in with entity id 1181 at (-1614.8465633277774, 98.0, 1689.3336144464108)
-[21Sep2025 03:41:45.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
-[21Sep2025 03:41:45.019] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
-[21Sep2025 03:42:00.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.67.145.104:37705] logged in with entity id 1611 at (-352.69999998807907, 104.0, 753.3000000119209)
-[21Sep2025 03:42:00.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[21Sep2025 03:42:00.986] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
-[21Sep2025 03:42:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 1 [Ender Pearl] to MIKEGaming]
-[21Sep2025 03:42:04.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[21Sep2025 03:42:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[21Sep2025 03:42:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[21Sep2025 03:43:02.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:51661] logged in with entity id 2798 at (-1458.300000011921, 70.0, -330.3566468077684)
-[21Sep2025 03:43:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[21Sep2025 03:43:02.221] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
-[21Sep2025 03:43:17.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
-[21Sep2025 03:45:12.189] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "rexsel" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1454, y=74, z=-339}] too quickly!
-[21Sep2025 03:45:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rexsel, puedes tepear al miguel a mi?
-[21Sep2025 03:46:03.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported MIKEGaming to elikernomamahuev]
-[21Sep2025 03:47:16.963] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
-[21Sep2025 03:48:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
-[21Sep2025 03:48:17.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set Eduardo171's game mode to Survival Mode]
-[21Sep2025 03:48:18.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[21Sep2025 03:48:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[21Sep2025 03:48:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Made Eduardo171 no longer a server operator]
-[21Sep2025 03:49:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Made Eduardo171 a server operator]
-[21Sep2025 03:49:03.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:40451] logged in with entity id 6480 at (-1462.5919147152422, -55.0, -335.164824522729)
-[21Sep2025 03:49:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[21Sep2025 03:49:03.682] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
-[21Sep2025 03:50:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> NONOPE
-[21Sep2025 03:51:33.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming used MIKEGaming as paint
-[21Sep2025 03:51:33.163] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 03:51:37.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e
-[21Sep2025 03:51:45.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que paso?
-[21Sep2025 03:51:51.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
-[21Sep2025 03:52:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported MIKEGaming to elikernomamahuev]
-[21Sep2025 03:52:01.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[21Sep2025 03:52:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[21Sep2025 03:52:38.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ok
-[21Sep2025 03:52:46.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:42371] logged in with entity id 8509 at (-1334.5461625182381, 80.0, -434.1044816585038)
-[21Sep2025 03:52:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[21Sep2025 03:52:46.522] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
-[21Sep2025 03:55:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [RPG Rocket PG-7VM] to Eduardo171]
-[21Sep2025 03:55:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [RPG Rocket PG-7VM] to Eduardo171]
-[21Sep2025 03:55:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [RPG-7] to Eduardo171]
-[21Sep2025 03:57:04.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
-[21Sep2025 03:57:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
-[21Sep2025 03:57:16.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ok
-[21Sep2025 03:57:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[21Sep2025 03:57:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> porq
-[21Sep2025 03:57:46.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> na mames
-[21Sep2025 03:58:15.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pe
-[21Sep2025 03:58:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> que e eto
-[21Sep2025 03:58:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e wey miguel, si puedes matar vacas para cuero
-[21Sep2025 03:58:49.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> q
-[21Sep2025 03:58:57.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> na mames
-[21Sep2025 03:59:02.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> puta mierda
-[21Sep2025 03:59:03.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> denadape
-[21Sep2025 03:59:05.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lo que me faltaba
-[21Sep2025 03:59:16.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pues ya vemos como le hacemos
-[21Sep2025 03:59:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
-[21Sep2025 03:59:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
-[21Sep2025 04:00:09.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> se me lag el dc
-[21Sep2025 04:01:21.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 04:01:21.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 04:02:07.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e wey, vamos a la mina
-[21Sep2025 04:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ?
-[21Sep2025 04:02:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bueno
-[21Sep2025 04:02:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dale
-[21Sep2025 04:02:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> minimo para encantar
-[21Sep2025 04:03:50.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:36967] logged in with entity id 13956 at (-1448.6719632629026, 78.0, -327.938744857013)
-[21Sep2025 04:03:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 04:03:50.622] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 04:05:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was turned into gorgonzola by abi3mael
-[21Sep2025 04:05:15.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22306ms or 446 ticks behind
-[21Sep2025 04:05:15.834] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:07:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:08:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was turned to stone by rexsel
-[21Sep2025 04:08:29.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6818ms or 136 ticks behind
-[21Sep2025 04:08:29.821] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 04:09:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was assassinated by abi3mael
-[21Sep2025 04:09:41.714] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
-[21Sep2025 04:09:52.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by Eduardo171
-[21Sep2025 04:09:52.128] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:10:08.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 04:11:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was obliterated by MIKEGaming
-[21Sep2025 04:11:03.126] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
-[21Sep2025 04:11:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by MIKEGaming
-[21Sep2025 04:11:07.025] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:11:11.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was gunned down by MIKEGaming
-[21Sep2025 04:11:11.479] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 04:11:11.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['caballo de juan llamado juan'/657, l='ServerLevel[world]', x=-1443.07, y=70.00, z=-331.00] died: elikernomamahuev used caballo de juan llamado juan as paint
-[21Sep2025 04:11:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was gunned down by Eduardo171
-[21Sep2025 04:11:17.788] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:11:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:14:01.490] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.513] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.564] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.583] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.618] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.667] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.677] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.736] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.771] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.809] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.831] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.865] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.893] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.926] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:01.970] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.030] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.063] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.090] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.118] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.164] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.191] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.224] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.283] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.317] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.362] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.381] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.414] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:02.460] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "abi3mael" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1466, y=-55, z=-336}] too quickly!
-[21Sep2025 04:14:24.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ando para quinto culo
-[21Sep2025 04:19:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was assassinated by elikernomamahuev
-[21Sep2025 04:19:53.470] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:21:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 04:23:02.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved wrongly!
-[21Sep2025 04:28:35.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que tramposos, van a usar eso?
-[21Sep2025 04:28:37.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nambre
-[21Sep2025 04:28:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mejor mierda
-[21Sep2025 04:28:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> la histbox
-[21Sep2025 04:29:06.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no tengo invisibilidad
-[21Sep2025 04:29:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> XD
-[21Sep2025 04:29:15.025] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1456, y=71, z=-338}] too quickly!
-[21Sep2025 04:32:34.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 04:32:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 04:32:46.819] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "elikernomamahuev" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-258, y=110, z=1698}] too quickly!
-[21Sep2025 04:34:18.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:59175] logged in with entity id 22017 at (-1458.512499988079, 70.0, -334.1639411612169)
-[21Sep2025 04:34:18.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 04:34:18.389] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 04:34:23.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 04:34:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 04:34:42.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:49083] logged in with entity id 22186 at (-1458.512499988079, 70.0, -334.1639411612169)
-[21Sep2025 04:34:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 04:34:42.325] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 04:34:48.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 04:34:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 04:35:07.420] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b11fb11[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:48799) lost connection: Disconnected
-[21Sep2025 04:35:12.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:56511] logged in with entity id 22449 at (-1458.512499988079, 70.0, -334.1639411612169)
-[21Sep2025 04:35:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 04:35:12.245] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 04:35:12.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was killed
-[21Sep2025 04:35:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed rexsel
-[21Sep2025 04:35:12.762] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 04:35:13.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 04:35:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 04:35:24.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:43109] logged in with entity id 22567 at (-1458.512499988079, 70.0, -334.1639411612169)
-[21Sep2025 04:35:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 04:35:24.373] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 04:37:58.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Tip of the Spear]
-[21Sep2025 04:43:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 04:43:12.165] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:43:22.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:43:42.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was gunned down by abi3mael
-[21Sep2025 04:43:42.315] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:43:51.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has reached the goal [Chain Death]
-[21Sep2025 04:43:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was obliterated by elikernomamahuev
-[21Sep2025 04:43:51.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev used elikernomamahuev as paint
-[21Sep2025 04:43:51.530] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:43:51.531] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:43:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was gunned down by rexsel
-[21Sep2025 04:43:53.776] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:44:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:44:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [Discreet Search]
-[21Sep2025 04:45:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was gunned down by rexsel
-[21Sep2025 04:45:20.966] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:45:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by Eduardo171
-[21Sep2025 04:45:23.325] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:45:30.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Eighty!]
-[21Sep2025 04:45:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Tip of the Spear]
-[21Sep2025 04:45:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was gunned down by rexsel
-[21Sep2025 04:45:32.927] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:46:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was turned to stone by Eduardo171
-[21Sep2025 04:46:25.077] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
-[21Sep2025 04:46:25.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was gunned down by rexsel
-[21Sep2025 04:46:25.830] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:46:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:47:24.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
-[21Sep2025 04:47:24.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
-[21Sep2025 04:48:44.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya matenos
-[21Sep2025 04:48:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
-[21Sep2025 04:50:17.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by MIKEGaming
-[21Sep2025 04:50:17.518] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:50:57.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:32787] logged in with entity id 29180 at (-1452.5590073707392, 74.0, -329.5318941101014)
-[21Sep2025 04:50:57.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
-[21Sep2025 04:50:57.754] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
-[21Sep2025 04:51:43.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to abi3mael]
-[21Sep2025 04:51:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
-[21Sep2025 04:51:52.523] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:51:59.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 04:52:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was gunned down by Eduardo171
-[21Sep2025 04:52:43.874] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:55:12.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was slain by rexsel
-[21Sep2025 04:55:12.040] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:56:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was gunned down by Eduardo171
-[21Sep2025 04:56:10.721] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:56:38.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by MIKEGaming
-[21Sep2025 04:56:38.342] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:56:43.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was assassinated by Eduardo171
-[21Sep2025 04:56:43.006] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:56:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 04:57:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Tomb Raider]
-[21Sep2025 04:57:39.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 04:57:39.389] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 04:57:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was gunned down by rexsel
-[21Sep2025 04:57:55.190] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
-[21Sep2025 04:58:00.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was assassinated by rexsel
-[21Sep2025 04:58:00.585] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:58:07.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 04:58:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was assassinated by rexsel
-[21Sep2025 04:58:45.370] [Server thread/INFO] [tombstone/]: The player MIKEGaming has successfully been saved
-[21Sep2025 04:59:06.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was doomed to fall by Ghost
-[21Sep2025 04:59:06.877] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 04:59:11.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ouch
-[21Sep2025 05:02:50.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKEGaming lost connection: Disconnected
-[21Sep2025 05:02:50.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming left the game
-[21Sep2025 05:03:39.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Spider
-[21Sep2025 05:03:39.623] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
-[21Sep2025 05:03:45.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> XD
-[21Sep2025 05:03:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> XD
-[21Sep2025 05:04:23.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> la verdad todo esto fue en vano
-[21Sep2025 05:04:23.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
-[21Sep2025 05:05:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya nimodos, toca irse al robloxito
-[21Sep2025 05:05:14.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
-[21Sep2025 05:05:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[21Sep2025 05:09:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was gunned down by abi3mael
-[21Sep2025 05:09:50.776] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 05:10:35.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 05:10:35.320] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:10:35.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
-[21Sep2025 05:10:35.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
-[21Sep2025 05:11:00.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:41583] logged in with entity id 46974 at (-1459.1089058452094, 70.0, -330.51853383479164)
-[21Sep2025 05:11:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
-[21Sep2025 05:11:00.206] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
-[21Sep2025 05:11:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 05:11:29.718] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:12:13.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 05:12:13.571] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:12:21.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[21Sep2025 05:12:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[21Sep2025 05:13:29.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:14:53.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:57683] logged in with entity id 50019 at (-1358.3235936213516, 75.0, -369.07591567579254)
-[21Sep2025 05:14:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[21Sep2025 05:14:53.209] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[21Sep2025 05:14:56.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:15:08.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:15:08.864] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:15:23.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:15:55.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was assassinated by rexsel
-[21Sep2025 05:15:55.276] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:16:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[21Sep2025 05:16:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[21Sep2025 05:18:25.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:25.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:25.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:26.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:27.066] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:27.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:27.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:27.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:39.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:18:40.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1439, y=69, z=-325} BlockPos{x=-1440, y=69, z=-325}
-[21Sep2025 05:18:40.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1439, y=69, z=-325} BlockPos{x=-1440, y=69, z=-325}
-[21Sep2025 05:18:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1439, y=69, z=-325} BlockPos{x=-1440, y=69, z=-325}
-[21Sep2025 05:18:40.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1439, y=69, z=-325} BlockPos{x=-1440, y=69, z=-325}
-[21Sep2025 05:19:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> ./tp abi3mael al quinto culo
-[21Sep2025 05:19:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was assassinated by abi3mael
-[21Sep2025 05:19:39.623] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 05:19:47.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [We Need to Go Deeper]
-[21Sep2025 05:20:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has completed the challenge [Subspace Bubble]
-[21Sep2025 05:20:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to 10.500000, 200.000000, 400000.500000]
-[21Sep2025 05:20:26.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael moved too quickly! 0.0,-10.806526110009003,0.0
-[21Sep2025 05:20:26.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
-[21Sep2025 05:20:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:20:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:20:40.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to 10.500000, 200.000000, 400000.500000]
-[21Sep2025 05:20:44.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael fell from a high place
-[21Sep2025 05:20:44.092] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:20:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[21Sep2025 05:20:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to 10.500000, 200.000000, 400000.500000]
-[21Sep2025 05:21:01.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:21:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 1 [Ender Pearl] to abi3mael]
-[21Sep2025 05:22:46.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:22:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was gunned down by abi3mael
-[21Sep2025 05:22:52.506] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
-[21Sep2025 05:22:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was assassinated by Eduardo171
-[21Sep2025 05:22:58.985] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:23:00.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to abi3mael]
-[21Sep2025 05:23:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
-[21Sep2025 05:23:30.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:23:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set Eduardo171's game mode to Survival Mode]
-[21Sep2025 05:23:52.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was gunned down by rexsel
-[21Sep2025 05:23:52.158] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
-[21Sep2025 05:24:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was gunned down by rexsel
-[21Sep2025 05:24:05.510] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:25:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:26:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was assassinated by Eduardo171
-[21Sep2025 05:26:14.708] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:26:27.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to Eduardo171]
-[21Sep2025 05:26:41.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:27:17.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[21Sep2025 05:27:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[21Sep2025 05:27:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 05:29:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
-[21Sep2025 05:29:22.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
-[21Sep2025 05:29:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
-[21Sep2025 05:30:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
-[21Sep2025 05:30:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[21Sep2025 05:30:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to rexsel]
-[21Sep2025 05:30:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
-[21Sep2025 05:30:35.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to rexsel]
-[21Sep2025 05:30:35.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [A Terrible Fortress]
-[21Sep2025 05:31:00.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was fireballed by Blaze
-[21Sep2025 05:31:00.655] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:31:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 05:32:35.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
-[21Sep2025 05:32:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
-[21Sep2025 05:32:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Kicked abi3mael: Kicked by an operator]
-[21Sep2025 05:32:35.925] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[21Sep2025 05:40:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Spooky Scary Skeleton]
-[21Sep2025 05:49:04.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6651103[id=<null>,name=abi3mael,properties={},legacy=false] (/127.152.24.121:53591) lost connection: Disconnected
-[21Sep2025 05:49:10.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:34569] logged in with entity id 72134 at (675.7642584982096, 54.0, -102.94475573649537)
-[21Sep2025 05:49:10.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
-[21Sep2025 05:49:10.607] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
-[21Sep2025 05:49:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tp
-[21Sep2025 05:49:26.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> p
-[21Sep2025 05:49:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> p
-[21Sep2025 05:49:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tp
-[21Sep2025 05:49:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> comida
-[21Sep2025 05:49:37.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> comidita pe
-[21Sep2025 05:49:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:52:36.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> QUE ES ESO PE
-[21Sep2025 05:52:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Straddle My Ol' Saddle]
-[21Sep2025 05:56:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael tried to swim in lava
-[21Sep2025 05:56:07.316] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:56:15.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 05:56:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied effect Fire Resistance to abi3mael]
-[21Sep2025 05:57:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
-[21Sep2025 05:57:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Wither Skeleton
-[21Sep2025 05:57:57.159] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 05:58:24.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
-[21Sep2025 05:58:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to abi3mael]
-[21Sep2025 05:59:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Spooky Scary Skeleton]
-[21Sep2025 06:00:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to Eduardo171]
-[21Sep2025 06:01:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Withering Heights]
-[21Sep2025 06:01:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Withering Heights]
-[21Sep2025 06:01:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Withering Heights]
-[21Sep2025 06:01:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has reached the goal [Strong Undead]
-[21Sep2025 06:02:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Strong Undead]
-[21Sep2025 06:03:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Your First Receptacle]
-[21Sep2025 06:04:02.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was assassinated by rexsel
-[21Sep2025 06:04:02.014] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
-[21Sep2025 06:04:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has reached the goal [Discreet Search]
-[21Sep2025 06:05:02.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[21Sep2025 06:05:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[21Sep2025 06:05:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[21Sep2025 06:05:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Sep2025 06:05:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Sep2025 06:05:05.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Sep2025 06:05:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21Sep2025 06:05:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21Sep2025 06:05:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21Sep2025 06:05:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21Sep2025 06:05:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Sep2025 06:05:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Sep2025 06:05:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21Sep2025 06:05:06.331] [Server thread/INFO] [Framework/]: Unloading server configs...
-[21Sep2025 06:05:06.333] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[21Sep2025 06:05:06.335] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Sep2025 01:14:57.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[22Sep2025 01:14:57.271] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[22Sep2025 01:14:57.347] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[22Sep2025 01:14:57.365] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[22Sep2025 01:14:57.369] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[22Sep2025 01:14:57.413] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3734 advancements
+[22Sep2025 01:14:57.427] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[22Sep2025 01:14:57.433] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Sep2025 01:14:59.399] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.693857ms
+[22Sep2025 01:14:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Sep2025 01:14:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Sep2025 01:14:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Sep2025 01:14:59.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Sep2025 01:14:59.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Sep2025 01:14:59.678] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Sep2025 01:14:59.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Sep2025 01:14:59.759] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Sep2025 01:14:59.759] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Sep2025 01:14:59.759] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Sep2025 01:14:59.798] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[22Sep2025 01:14:59.800] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[22Sep2025 01:14:59.801] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[22Sep2025 01:14:59.904] [Server thread/INFO] [Framework/]: Loading server configs...
+[22Sep2025 01:14:59.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Sep2025 01:15:03.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Sep2025 01:15:04.912] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:04.938] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:04.962] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:04.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:05.352] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:05.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:06.335] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Sep2025 01:15:06.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[22Sep2025 01:15:07.333] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[22Sep2025 01:15:07.856] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[22Sep2025 01:15:08.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[22Sep2025 01:15:08.463] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5130 ms
+[22Sep2025 01:15:08.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.689s)! For help, type "help"
+[22Sep2025 01:15:08.510] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Sep2025 01:15:08.538] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22Sep2025 01:15:08.539] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Sep2025 01:16:06.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:46903] logged in with entity id 522 at (-1461.7275922428796, -55.0, -331.8139243683787)
+[22Sep2025 01:16:06.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[22Sep2025 01:16:06.793] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[22Sep2025 01:16:10.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[22Sep2025 01:23:51.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.67.145.104:60271] logged in with entity id 2320 at (66.69999998807907, 63.0, 619.6999999880791)
+[22Sep2025 01:23:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[22Sep2025 01:23:51.246] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[22Sep2025 01:25:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> estas en mi ex casa abi?
+[22Sep2025 01:25:22.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a
+[22Sep2025 01:28:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was doomed to fall by Skeleton
+[22Sep2025 01:28:43.740] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[22Sep2025 01:29:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev drowned
+[22Sep2025 01:29:26.968] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[22Sep2025 01:29:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ta mierda
+[22Sep2025 01:30:17.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev drowned
+[22Sep2025 01:30:17.766] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[22Sep2025 01:30:19.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=127, y=70, z=532}
+[22Sep2025 01:30:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo un chingo de probabilidad de que me salga la llave con perla
+[22Sep2025 01:30:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no mames
+[22Sep2025 01:30:36.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=61, z=518}
+[22Sep2025 01:30:46.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=61, z=518}
+[22Sep2025 01:30:47.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=61, z=519}
+[22Sep2025 01:30:47.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=61, z=520}
+[22Sep2025 01:30:50.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=117, y=61, z=511}
+[22Sep2025 01:30:51.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=61, z=510} BlockPos{x=117, y=61, z=511}
+[22Sep2025 01:31:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Drowned
+[22Sep2025 01:31:20.817] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[22Sep2025 01:31:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que mierda
