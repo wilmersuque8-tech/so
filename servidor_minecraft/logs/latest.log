@@ -1113,3 +1113,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [22Sep2025 02:17:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
 [22Sep2025 02:27:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [En Garde!]
 [22Sep2025 02:33:35.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Crops of the Wild]
+[22Sep2025 02:42:42.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to -1448.500000, 71.000000, -335.500000]
+[22Sep2025 02:43:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
+[22Sep2025 02:45:40.658] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a1dd5fa[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.67.145.104:49783) lost connection: Timed out
