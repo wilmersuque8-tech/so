@@ -5383,219 +5383,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-09-22 02:24:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-09-22 02:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
-    "criteria": {
-      "has_block": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-09-22 02:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-09-22 02:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-09-22 02:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-09-22 03:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-09-22 02:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-09-22 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-09-22 02:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-09-22 01:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-09-22 02:45:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone": {
-    "criteria": {
-      "has_item": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/taser_blueprint": {
-    "criteria": {
-      "has_taser_blueprint": "2025-09-22 03:24:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
-    "criteria": {
-      "has_block": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/cemented_carbide_trigger": {
-    "criteria": {
-      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-09-22 01:23:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
-    "criteria": {
-      "has_block": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
     },
     "done": true
   },
@@ -5605,9 +5395,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+      "has_light_gray_wool": "2025-09-22 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-22 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-22 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-09-22 01:43:40 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_trigger": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
     },
     "done": true
   },
@@ -5617,9 +5431,51 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/m_1911_smithing": {
+  "superbwarfare:recipes/misc/cemented_carbide_spring": {
     "criteria": {
-      "has_m_1911_blueprint": "2025-09-22 03:31:17 +0000"
+      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_action": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-09-22 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-09-22 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-09-22 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-09-22 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-09-22 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-09-22 01:58:16 +0000"
     },
     "done": true
   },
@@ -5629,27 +5485,39 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/taser_smithing": {
+  "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
-      "has_taser_blueprint": "2025-09-22 03:24:50 +0000"
+      "has_cobble": "2025-09-22 01:58:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+      "has_poppy": "2025-09-22 02:03:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+  "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+      "has_the_recipe": "2025-09-22 02:10:41 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/m_1911_blueprint": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_m_1911_blueprint": "2025-09-22 03:31:17 +0000"
+      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
     },
     "done": true
   },
@@ -5665,69 +5533,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-09-22 02:33:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-22 02:16:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_the_recipe": "2025-09-22 02:10:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-09-22 01:43:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-09-22 03:19:47 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/cemented_carbide_spring": {
-    "criteria": {
-      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_lever": {
-    "criteria": {
-      "has_cobble": "2025-09-22 01:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-22 01:22:42 +0000"
     },
     "done": true
   },
@@ -5737,9 +5545,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-09-22 02:51:17 +0000"
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-22 02:21:40 +0000"
     },
     "done": true
   },
@@ -5749,9 +5617,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_planks": "2025-09-22 02:50:56 +0000"
+      "has_cocoa_beans": "2025-09-22 02:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-09-22 02:24:53 +0000"
     },
     "done": true
   },
@@ -5761,9 +5635,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "spartanweaponry:rapier": {
     "criteria": {
-      "has_log": "2025-09-22 01:23:35 +0000"
+      "has_rapier": "2025-09-22 02:27:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-09-22 02:33:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-22 02:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-22 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-22 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-22 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-22 02:46:09 +0000"
     },
     "done": true
   },
@@ -5773,9 +5683,231 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/cemented_carbide_action": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_cemented_carbide_ingot": "2025-09-22 01:47:01 +0000"
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-09-22 02:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 03:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 03:19:47 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/taser_blueprint": {
+    "criteria": {
+      "has_taser_blueprint": "2025-09-22 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/taser_smithing": {
+    "criteria": {
+      "has_taser_blueprint": "2025-09-22 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_1911_smithing": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-09-22 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_1911_blueprint": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-09-22 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-09-22 03:37:52 +0000"
     },
     "done": true
   },
