@@ -10164,5 +10164,17 @@
     },
     "done": true
   },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-09-24 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-09-24 04:16:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
