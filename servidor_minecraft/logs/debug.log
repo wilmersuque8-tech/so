@@ -7207,3 +7207,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 06:27:55.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9793, y=-11, z=10192} BlockPos{x=9793, y=-10, z=10193}
 [24Sep2025 06:30:55.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Sep2025 06:30:55.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 06:33:26.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:35:55.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 06:35:55.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 06:37:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no se me escucha pe
+[24Sep2025 06:39:13.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9765, y=-12, z=10212} BlockPos{x=9764, y=-13, z=10213}
+[24Sep2025 06:39:13.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9765, y=-12, z=10212} BlockPos{x=9764, y=-12, z=10213}
+[24Sep2025 06:40:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Sculk Cymbal]
+[24Sep2025 06:40:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has completed the challenge [It Spreads]
+[24Sep2025 06:40:50.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:40:55.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 06:40:55.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 06:42:01.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
