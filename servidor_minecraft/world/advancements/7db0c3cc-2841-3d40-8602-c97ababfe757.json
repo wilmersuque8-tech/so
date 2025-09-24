@@ -9296,45 +9296,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "spartanweaponry:longsword": {
     "criteria": {
-      "has_item": "2025-09-24 06:47:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-09-24 05:45:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-09-24 05:53:48 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ak_12_blueprint": {
-    "criteria": {
-      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-09-24 07:21:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-09-24 05:45:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
-    "criteria": {
-      "has_item": "2025-09-24 06:05:34 +0000"
+      "has_longsword": "2025-09-24 04:59:55 +0000"
     },
     "done": true
   },
@@ -9344,21 +9308,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_item": "2025-09-24 06:05:34 +0000"
+      "has_silver_nugget": "2025-09-24 05:45:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+  "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
-      "has_item": "2025-09-24 06:05:34 +0000"
+      "has_item": "2025-09-24 05:45:32 +0000"
     },
     "done": true
   },
-  "spartanweaponry:longsword": {
+  "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
-      "has_longsword": "2025-09-24 04:59:55 +0000"
+      "has_item": "2025-09-24 05:45:32 +0000"
     },
     "done": true
   },
@@ -9374,21 +9338,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_sign": {
+  "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
-      "has_planks": "2025-09-24 07:21:54 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/ntw_20_smithing": {
-    "criteria": {
-      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-24 07:21:54 +0000"
+      "has_item": "2025-09-24 05:45:32 +0000"
     },
     "done": true
   },
@@ -9398,9 +9350,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-09-24 05:47:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-09-24 05:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-09-24 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-09-24 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-24 06:05:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2025-09-24 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-09-24 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-09-24 06:47:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ak_12_blueprint": {
+    "criteria": {
+      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ak_12_smithing": {
+    "criteria": {
+      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ntw_20_smithing": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ntw_20_blueprint": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
     },
     "done": true
   },
@@ -9416,21 +9452,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-09-24 06:05:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-09-24 07:21:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-09-24 05:45:32 +0000"
     },
     "done": true
   },
@@ -9443,30 +9467,6 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-09-24 07:21:54 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ntw_20_blueprint": {
-    "criteria": {
-      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-09-24 05:47:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-09-24 05:45:14 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/ak_12_smithing": {
-    "criteria": {
-      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
     },
     "done": true
   },

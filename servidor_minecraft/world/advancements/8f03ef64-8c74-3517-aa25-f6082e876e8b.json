@@ -6368,13 +6368,37 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_log": "2025-09-24 08:02:57 +0000"
+      "coded_trigger": "2025-09-24 07:29:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/bocek_smithing": {
+    "criteria": {
+      "has_bocek_blueprint": "2025-09-24 07:39:51 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/bocek_blueprint": {
+    "criteria": {
+      "has_bocek_blueprint": "2025-09-24 07:39:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-24 07:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-24 07:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-09-24 07:50:45 +0000"
     },
@@ -6416,24 +6440,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-09-24 07:50:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-09-24 07:29:31 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/bocek_smithing": {
-    "criteria": {
-      "has_bocek_blueprint": "2025-09-24 07:39:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-09-24 08:01:23 +0000"
@@ -6446,27 +6452,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
-      "has_rail": "2025-09-24 07:50:45 +0000"
+      "has_planks": "2025-09-24 08:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-24 08:02:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-09-24 08:02:57 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/bocek_blueprint": {
-    "criteria": {
-      "has_bocek_blueprint": "2025-09-24 07:39:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-24 08:01:23 +0000"
     },
     "done": true
   },
