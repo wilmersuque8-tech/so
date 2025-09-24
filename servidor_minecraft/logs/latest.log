@@ -1062,3 +1062,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 03:45:04.375] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/3446, l='ServerLevel[world]', x=-1648.00, y=86.12, z=-1491.32]
 [24Sep2025 03:45:40.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
 [24Sep2025 03:46:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Chest] to Eduardo171]
+[24Sep2025 03:47:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[24Sep2025 03:47:46.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[24Sep2025 03:47:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 03:47:57.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[24Sep2025 03:47:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[24Sep2025 03:49:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Take Aim, Chaps!]
+[24Sep2025 03:51:38.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:45297] logged in with entity id 5677 at (-1434.2621903366253, 69.9375, -342.65103632659833)
+[24Sep2025 03:51:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[24Sep2025 03:51:38.664] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[24Sep2025 03:53:45.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:39027] logged in with entity id 6280 at (-1436.5171796291006, 64.0, -256.8823810249274)
+[24Sep2025 03:53:45.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[24Sep2025 03:53:45.559] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[24Sep2025 03:54:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to rexsel]
+[24Sep2025 03:55:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 03:55:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> me diste todo mal pe
+[24Sep2025 03:55:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> estas cosas no son mias pe
+[24Sep2025 03:56:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Sep2025 03:56:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
