@@ -9320,6 +9320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-09-24 05:45:32 +0000"
@@ -9368,9 +9374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/combat/ntw_20_smithing": {
     "criteria": {
       "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
     },
     "done": true
   },
@@ -9386,15 +9404,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-09-24 06:05:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-09-24 05:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
     },
     "done": true
   },
@@ -9419,6 +9467,12 @@
   "superbwarfare:recipes/combat/ak_12_smithing": {
     "criteria": {
       "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-24 07:21:54 +0000"
     },
     "done": true
   },

@@ -1508,3 +1508,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 07:18:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Legendary]
 [24Sep2025 07:22:22.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
 [24Sep2025 07:22:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
+[24Sep2025 07:26:06.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:39285] logged in with entity id 72460 at (-1499.762499988079, 118.0, -347.82109692484994)
+[24Sep2025 07:26:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[24Sep2025 07:26:06.289] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[24Sep2025 07:28:41.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
+[24Sep2025 07:28:41.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
+[24Sep2025 07:28:50.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:51873] logged in with entity id 73365 at (-1503.310066334472, 118.0, -344.93989448033926)
+[24Sep2025 07:28:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[24Sep2025 07:28:50.883] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[24Sep2025 07:29:31.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Knowledge raises the soul]
+[24Sep2025 07:30:34.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[24Sep2025 07:31:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to 100000.500000, 63.000000, 100000.500000]
+[24Sep2025 07:34:07.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was blown up by Creeper
+[24Sep2025 07:34:07.471] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[24Sep2025 07:34:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to abi3mael]
+[24Sep2025 07:48:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael used abi3mael as paint
+[24Sep2025 07:48:35.537] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
