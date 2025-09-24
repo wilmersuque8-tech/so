@@ -1481,3 +1481,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 06:04:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to abi3mael]
 [24Sep2025 06:08:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
 [24Sep2025 06:09:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[24Sep2025 06:11:58.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9635, y=-1, z=9895} BlockPos{x=9635, y=0, z=9897}
+[24Sep2025 06:16:17.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:20:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:25:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Ice Dragon
+[24Sep2025 06:25:23.754] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[24Sep2025 06:27:55.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9793, y=-11, z=10192} BlockPos{x=9793, y=-10, z=10193}
