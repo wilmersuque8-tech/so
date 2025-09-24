@@ -9076,18 +9076,6 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/svd_smithing": {
-    "criteria": {
-      "has_svd_blueprint": "2025-09-24 04:25:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
-    "criteria": {
-      "has_advanced_pump_upgrade": "2025-09-24 04:15:57 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-24 04:09:02 +0000"
@@ -9130,12 +9118,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
-    "criteria": {
-      "has_pump_upgrade": "2025-09-24 04:12:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-24 04:09:02 +0000"
@@ -9163,12 +9145,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-24 04:09:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-09-24 04:17:53 +0000"
     },
     "done": true
   },
@@ -9268,12 +9244,6 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/svd_blueprint": {
-    "criteria": {
-      "has_svd_blueprint": "2025-09-24 04:25:43 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-24 04:09:02 +0000"
@@ -9283,6 +9253,66 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-24 04:09:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-09-24 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-09-24 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-09-24 04:17:53 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/svd_smithing": {
+    "criteria": {
+      "has_svd_blueprint": "2025-09-24 04:25:43 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/svd_blueprint": {
+    "criteria": {
+      "has_svd_blueprint": "2025-09-24 04:25:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-24 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-24 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-09-24 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-24 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-24 05:24:45 +0000"
     },
     "done": true
   },
