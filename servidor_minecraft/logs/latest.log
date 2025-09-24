@@ -1505,3 +1505,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 06:46:45.749] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
 [24Sep2025 06:48:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Cover Me with Diamonds]
 [24Sep2025 06:50:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 07:18:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Legendary]
+[24Sep2025 07:22:22.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
+[24Sep2025 07:22:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game

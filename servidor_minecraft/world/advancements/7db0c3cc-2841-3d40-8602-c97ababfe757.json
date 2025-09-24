@@ -9314,6 +9314,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/ak_12_blueprint": {
+    "criteria": {
+      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-09-24 05:45:32 +0000"
@@ -9362,6 +9368,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/ntw_20_smithing": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-09-24 05:45:35 +0000"
@@ -9386,6 +9398,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/ntw_20_blueprint": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:15:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-09-24 05:47:25 +0000"
@@ -9395,6 +9413,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-09-24 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ak_12_smithing": {
+    "criteria": {
+      "has_ak_12_blueprint": "2025-09-24 07:14:54 +0000"
     },
     "done": true
   },

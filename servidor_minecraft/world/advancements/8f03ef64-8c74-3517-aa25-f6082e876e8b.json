@@ -6079,6 +6079,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/ntw_20_smithing": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:18:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2025-09-24 05:54:44 +0000"
@@ -6253,6 +6259,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/ntw_20_blueprint": {
+    "criteria": {
+      "has_ntw_20_blueprint": "2025-09-24 07:18:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-09-24 05:57:13 +0000"
@@ -6310,6 +6322,12 @@
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-09-24 05:54:44 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/legendary_blueprint": {
+    "criteria": {
+      "0": "2025-09-24 07:18:57 +0000"
     },
     "done": true
   },
