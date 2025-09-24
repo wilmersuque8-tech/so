@@ -1080,3 +1080,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 03:55:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> estas cosas no son mias pe
 [24Sep2025 03:56:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
 [24Sep2025 03:56:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Sep2025 03:57:59.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Sep2025 04:00:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[24Sep2025 04:01:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[24Sep2025 04:02:23.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2475, y=72, z=-1054} BlockPos{x=-2476, y=72, z=-1056}
+[24Sep2025 04:05:56.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2473, y=66, z=-1052} BlockPos{x=-2474, y=65, z=-1052}
+[24Sep2025 04:05:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Enderman
+[24Sep2025 04:05:56.765] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
