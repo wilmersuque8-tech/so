@@ -1520,6 +1520,7 @@
       "minecraft:spider": "2025-08-26 20:36:16 +0000",
       "minecraft:piglin_brute": "2025-08-27 06:00:03 +0000",
       "minecraft:creeper": "2025-08-26 05:59:09 +0000",
+      "minecraft:slime": "2025-09-24 23:11:52 +0000",
       "minecraft:phantom": "2025-09-06 23:21:27 +0000",
       "minecraft:zombified_piglin": "2025-09-06 03:10:34 +0000",
       "minecraft:witch": "2025-08-30 03:26:24 +0000",
@@ -8908,7 +8909,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2025-09-21 05:40:58 +0000"
+      "wither_skeleton_skull": "2025-09-21 05:40:58 +0000",
+      "skeleton_skull": "2025-09-24 23:15:02 +0000"
     },
     "done": false
   },

@@ -1085,3 +1085,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 23:13:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que es obligatorio hecharse agua
 [24Sep2025 23:13:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ES DRAGONAAA
 [24Sep2025 23:13:52.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ah
+[24Sep2025 23:13:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no era
+[24Sep2025 23:14:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipi
+[24Sep2025 23:14:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Cuantas escamas?
+[24Sep2025 23:15:00.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> 2 stacks
+[24Sep2025 23:15:02.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> y 21
+[24Sep2025 23:15:05.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> 22*
+[24Sep2025 23:15:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> uffff
+[24Sep2025 23:15:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> color verde
+[24Sep2025 23:16:02.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> No veo otra cueva de dragon cerca
+[24Sep2025 23:16:17.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> yo menos
+[24Sep2025 23:16:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to 9788.500000, -13.500000, 10192.500000]
+[24Sep2025 23:16:53.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[24Sep2025 23:16:53.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! -2.445354120308366,-0.2712241076924897,-9.798531279088138
+[24Sep2025 23:17:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[24Sep2025 23:18:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied enchantment Efficiency V to abi3mael's item]
+[24Sep2025 23:18:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied enchantment Unbreaking III to abi3mael's item]
+[24Sep2025 23:20:03.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13911, l='ServerLevel[world]', x=-2903.70, y=74.00, z=1460.30] died, message: 'Unemployed was slain by Zombie'
+[24Sep2025 23:20:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Blunt-force Trauma]
+[24Sep2025 23:20:17.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13835, l='ServerLevel[world]', x=-2870.30, y=71.00, z=1448.70] died, message: 'Unemployed was slain by Zombie'
+[24Sep2025 23:21:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[24Sep2025 23:21:46.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> otro
+[24Sep2025 23:23:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Netherite Pickaxe cannot support that enchantment
