@@ -7219,3 +7219,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [24Sep2025 06:40:55.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Sep2025 06:40:55.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Sep2025 06:42:01.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:43:02.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:43:02.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Sep2025 06:43:04.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:43:04.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Sep2025 06:43:24.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:43:24.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Sep2025 06:43:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ala poia pe
+[24Sep2025 06:43:56.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:44:05.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:44:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[24Sep2025 06:45:26.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 9.328891069326346,0.0,-5.590408731452044
+[24Sep2025 06:45:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[24Sep2025 06:45:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:45:55.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 06:45:55.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 06:46:29.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was burnt to a crisp whilst fighting Fire Dragon
+[24Sep2025 06:46:29.547] [Server thread/DEBUG] [tombstone/]: A new grave of the player abi3mael was created at position [x:10289, y:-15, z:10044, dim:minecraft:overworld]
+[24Sep2025 06:46:29.548] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[24Sep2025 06:46:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:46:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 burned to death
+[24Sep2025 06:46:45.747] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eduardo171 was created at position [x:10302, y:-16, z:10037, dim:minecraft:overworld]
+[24Sep2025 06:46:45.749] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[24Sep2025 06:48:09.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Sep2025 06:48:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Cover Me with Diamonds]
+[24Sep2025 06:50:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported abi3mael to Eduardo171]
+[24Sep2025 06:50:55.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 06:50:55.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
