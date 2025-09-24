@@ -3406,7 +3406,8 @@
       "minecraft:creeper": "2025-09-07 00:43:53 +0000",
       "minecraft:piglin": "2025-09-21 01:07:50 +0000",
       "minecraft:enderman": "2025-09-07 01:02:15 +0000",
-      "minecraft:zombie": "2025-09-06 22:47:31 +0000"
+      "minecraft:zombie": "2025-09-06 22:47:31 +0000",
+      "minecraft:drowned": "2025-09-23 04:57:08 +0000"
     },
     "done": false
   },
@@ -6079,6 +6080,456 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-09-21 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-09-23 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-23 04:35:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-23 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-23 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-23 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-23 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-23 04:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_pike_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_boomerang_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_parrying_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_glaive_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-23 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-23 04:51:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-09-23 04:51:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-09-23 04:51:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pink_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/orange_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/blue_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/white_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/black_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/brown_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/gray_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/lime_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cyan_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/magenta_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/green_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/yellow_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_gray_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/red_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_blue_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/purple_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-09-23 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-23 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_trigger": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-23 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_spring": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-23 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_action": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-23 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-23 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-09-23 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-23 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-09-23 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-09-23 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-09-23 05:08:56 +0000"
     },
     "done": true
   },

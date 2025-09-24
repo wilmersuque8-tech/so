@@ -9745,7 +9745,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "shepherds_pie": "2025-09-10 03:17:31 +0000"
+      "shepherds_pie": "2025-09-10 03:17:31 +0000",
+      "roast_chicken": "2025-09-23 04:54:43 +0000"
     },
     "done": false
   },
@@ -10154,6 +10155,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-09-22 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-09-23 04:49:16 +0000"
     },
     "done": true
   },

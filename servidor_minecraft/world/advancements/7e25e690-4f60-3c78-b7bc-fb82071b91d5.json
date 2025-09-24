@@ -4478,6 +4478,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-09-23 04:36:23 +0000",
       "minecraft:sheep": "2025-08-27 04:12:10 +0000",
       "minecraft:cow": "2025-09-06 04:22:43 +0000"
     },
@@ -9036,6 +9037,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-09-23 04:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-09-23 04:52:42 +0000"
     },
     "done": true
   },
