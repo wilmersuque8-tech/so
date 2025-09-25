@@ -9618,5 +9618,17 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/secondary_cataclysm_smithing": {
+    "criteria": {
+      "has_secondary_cataclysm_blueprint": "2025-09-25 06:57:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/secondary_cataclysm_blueprint": {
+    "criteria": {
+      "has_secondary_cataclysm_blueprint": "2025-09-25 06:57:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

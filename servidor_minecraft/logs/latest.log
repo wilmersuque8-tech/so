@@ -1120,3 +1120,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 06:51:19.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:37437] logged in with entity id 49634 at (510.76249998807907, -47.0, -709.0371824763799)
 [25Sep2025 06:51:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [25Sep2025 06:51:19.796] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 06:53:18.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 10.101622349434649,0.0,-0.04924721018414857
+[25Sep2025 06:57:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[25Sep2025 06:58:50.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 06:58:50.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 06:59:05.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:52591] logged in with entity id 54618 at (483.30000001192093, -38.09237223034856, -617.124907545889)
+[25Sep2025 06:59:05.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 06:59:05.482] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 06:59:57.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[25Sep2025 06:59:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 07:00:47.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:49641] logged in with entity id 55312 at (483.30000001192093, -38.09237223034856, -617.124907545889)
+[25Sep2025 07:00:47.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 07:00:47.989] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 07:02:21.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[25Sep2025 07:02:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
