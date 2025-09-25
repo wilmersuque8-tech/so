@@ -1109,3 +1109,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 06:11:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
 [25Sep2025 06:19:50.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
 [25Sep2025 06:19:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 06:22:04.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:38767] logged in with entity id 38123 at (372.87031842906964, -43.40245616947017, -623.735414630951)
+[25Sep2025 06:22:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 06:22:04.895] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 06:23:30.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Removed every effect from Eduardo171]
+[25Sep2025 06:27:17.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied effect Night Vision to Eduardo171]
+[25Sep2025 06:42:06.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 06:42:06.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game

@@ -9552,18 +9552,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-25 06:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-25 06:17:34 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:recipes/combat/rpg_smithing": {
     "criteria": {
       "has_rpg_blueprint": "2025-09-25 06:16:40 +0000"
@@ -9573,6 +9561,18 @@
   "superbwarfare:recipes/misc/rpg_blueprint": {
     "criteria": {
       "has_rpg_blueprint": "2025-09-25 06:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-25 06:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-25 06:17:34 +0000"
     },
     "done": true
   },
@@ -9603,6 +9603,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-25 06:17:34 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mk_14_blueprint": {
+    "criteria": {
+      "has_mk_14_blueprint": "2025-09-25 06:31:13 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/mk_14_smithing": {
+    "criteria": {
+      "has_mk_14_blueprint": "2025-09-25 06:31:13 +0000"
     },
     "done": true
   },
