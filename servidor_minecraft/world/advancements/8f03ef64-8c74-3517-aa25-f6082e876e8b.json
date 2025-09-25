@@ -2043,7 +2043,8 @@
       "bread": "2025-09-20 22:18:36 +0000",
       "golden_apple": "2025-09-22 03:28:58 +0000",
       "rotten_flesh": "2025-09-20 22:13:26 +0000",
-      "golden_carrot": "2025-09-20 23:12:11 +0000"
+      "golden_carrot": "2025-09-20 23:12:11 +0000",
+      "carrot": "2025-09-25 01:50:09 +0000"
     },
     "done": false
   },
@@ -6507,6 +6508,32 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-09-25 01:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-09-25 01:33:53 +0000",
+      "wheat": "2025-09-25 01:34:09 +0000",
+      "carrot": "2025-09-25 01:33:59 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-09-25 01:17:14 +0000"
@@ -6531,9 +6558,34 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-09-25 01:34:36 +0000",
+      "minecraft:cow": "2025-09-25 01:34:41 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-09-25 01:55:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2025-09-25 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
     },
     "done": true
   },
@@ -6543,9 +6595,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_chestplate": {
     "criteria": {
       "has_item": "2025-09-25 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
     },
     "done": true
   },
@@ -6567,15 +6643,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-09-25 00:24:31 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-25 01:34:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-09-25 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-09-25 01:54:28 +0000"
     },
     "done": true
   },
