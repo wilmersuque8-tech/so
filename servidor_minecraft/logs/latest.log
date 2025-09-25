@@ -1173,3 +1173,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 07:32:32.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:52457] logged in with entity id 68691 at (254.58826474155674, -14.750812921255317, -398.3175883539413)
 [25Sep2025 07:32:32.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [25Sep2025 07:32:32.307] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 07:39:57.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was shot by Skeleton
+[25Sep2025 07:39:57.882] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[25Sep2025 07:40:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to Eduardo171]
+[25Sep2025 07:42:58.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 07:43:02.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -10.855590540984991,0.020575296814023147,-0.0030066009341567224
+[25Sep2025 07:43:18.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -10.339300755196831,0.6840000271797182,-3.519031735180988
