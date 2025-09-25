@@ -1062,3 +1062,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 19:00:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
 [25Sep2025 19:07:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set the time to 1000]
 [25Sep2025 19:08:02.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 3.830876852375468,0.7531999805212024,-9.376179642931902
+[25Sep2025 19:19:07.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 19:19:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 19:19:20.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:47369] logged in with entity id 12801 at (-1308.1030956862874, 77.9375, -474.6168255033717)
+[25Sep2025 19:19:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 19:19:20.821] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 19:19:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set the time to 1000]
+[25Sep2025 19:22:24.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied enchantment Mending to Eduardo171's item]
+[25Sep2025 19:22:32.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied enchantment Mending to Eduardo171's item]
