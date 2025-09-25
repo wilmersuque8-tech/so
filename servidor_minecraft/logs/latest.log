@@ -1116,3 +1116,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 06:27:17.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Applied effect Night Vision to Eduardo171]
 [25Sep2025 06:42:06.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
 [25Sep2025 06:42:06.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 06:46:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [What a Deal!]
+[25Sep2025 06:51:19.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:37437] logged in with entity id 49634 at (510.76249998807907, -47.0, -709.0371824763799)
+[25Sep2025 06:51:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 06:51:19.796] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
