@@ -28,3 +28,87 @@
 [25Sep2025 00:15:35.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.67.145.104:38387] logged in with entity id 49048 at (-4508.699999988079, 0.0, 719.6999999880791)
 [25Sep2025 00:15:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
 [25Sep2025 00:15:35.673] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[25Sep2025 00:15:43.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:50809] logged in with entity id 49414 at (98987.93747049844, 20.0, 100029.30000001192)
+[25Sep2025 00:15:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[25Sep2025 00:15:43.112] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[25Sep2025 00:19:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Sep2025 00:19:30.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abimael<--[HERE]
+[25Sep2025 00:19:37.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Sep2025 00:19:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...sg Abimael<--[HERE]
+[25Sep2025 00:20:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev used elikernomamahuev as paint
+[25Sep2025 00:20:06.034] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[25Sep2025 00:20:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vale verga
+[25Sep2025 00:20:26.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:54145] logged in with entity id 52468 at (99168.69999998808, -30.0, 100297.30000001192)
+[25Sep2025 00:20:26.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 00:20:26.449] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 00:20:41.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> el puto dragon no se murio por el puto cohetazo que le meti en el culo
+[25Sep2025 00:20:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[25Sep2025 00:20:59.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Abi metete al vc
+[25Sep2025 00:21:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> voy
+[25Sep2025 00:23:37.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was blown up by Creeper
+[25Sep2025 00:23:37.408] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[25Sep2025 00:23:41.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 00:23:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 00:24:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Sea? Not a Problem]
+[25Sep2025 00:24:38.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@355dbe2e[id=<null>,name=Eduardo171,properties={},legacy=false] (/127.217.102.85:34051) lost connection: Disconnected
+[25Sep2025 00:24:50.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:56821] logged in with entity id 54962 at (98934.15050508523, -13.823240724935761, 99824.53481265981)
+[25Sep2025 00:24:50.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 00:24:50.775] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 00:25:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to Eduardo171]
+[25Sep2025 00:26:22.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98911, y=-12, z=99768} BlockPos{x=98912, y=-8, z=99768}
+[25Sep2025 00:26:22.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98911, y=-12, z=99768} BlockPos{x=98912, y=-8, z=99768}
+[25Sep2025 00:27:26.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> susy baka
+[25Sep2025 00:27:29.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Pic-A-Nic Basket?]
+[25Sep2025 00:28:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> te doy una sangre de dragon de hielo y una electrico por los 5 libros de reparacion
+[25Sep2025 00:28:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> eduardin
+[25Sep2025 00:28:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> hmm
+[25Sep2025 00:29:01.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> nope
+[25Sep2025 00:29:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no me quiero ir
+[25Sep2025 00:29:27.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> PIPIPIPI
+[25Sep2025 00:30:16.659] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "elikernomamahuev" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-2559, y=69, z=2335}] too quickly!
+[25Sep2025 00:31:25.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> estas loco eduardo
+[25Sep2025 00:31:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> UN PUTO DRAGON
+[25Sep2025 00:31:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> volando
+[25Sep2025 00:31:55.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> soy yo
+[25Sep2025 00:31:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
+[25Sep2025 00:32:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> 12 putas balas
+[25Sep2025 00:32:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que tabletas
+[25Sep2025 00:32:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ayudame pe
+[25Sep2025 00:32:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> yo tengo una tableta
+[25Sep2025 00:32:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ven a ayudarme pe
+[25Sep2025 00:32:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to Eduardo171]
+[25Sep2025 00:33:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> esque no tengo balitas pe
+[25Sep2025 00:33:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[25Sep2025 00:33:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> aca pe
+[25Sep2025 00:34:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ai pe
+[25Sep2025 00:34:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> gracia
+[25Sep2025 00:34:49.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -6.934457258670591,-1.5292232112077642,7.46117518626852
+[25Sep2025 00:34:59.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael fell from a high place
+[25Sep2025 00:34:59.327] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[25Sep2025 00:35:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipi
+[25Sep2025 00:36:24.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya me fui pe
+[25Sep2025 00:36:35.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> toy en una cueva
+[25Sep2025 00:37:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipi
+[25Sep2025 00:40:22.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 00:40:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 00:40:39.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:46375] logged in with entity id 67518 at (99854.13975355767, 69.9375, 100819.03757384345)
+[25Sep2025 00:40:39.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 00:40:39.047] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 00:42:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> DRAGONN
+[25Sep2025 00:43:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que chimba
+[25Sep2025 00:43:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ayudame pe eduardin
+[25Sep2025 00:43:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> un dragon de cueva
+[25Sep2025 00:44:16.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 00:44:34.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya estas pe?
+[25Sep2025 00:44:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> veo 2 dragones en el mapa
+[25Sep2025 00:45:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> esque si abres el mapa y das tap ves los nombres de los mods
+[25Sep2025 00:45:06.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 00:45:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> mobs
+[25Sep2025 00:45:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> mala mia
+[25Sep2025 00:45:22.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[25Sep2025 00:45:23.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> soi dislexico pe
+[25Sep2025 00:45:26.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> esta arriba
+[25Sep2025 00:45:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya esta despierto pe
+[25Sep2025 00:45:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> cuidado
+[25Sep2025 00:46:01.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[25Sep2025 00:46:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game

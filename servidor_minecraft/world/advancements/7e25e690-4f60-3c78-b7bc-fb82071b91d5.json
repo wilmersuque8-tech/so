@@ -9334,15 +9334,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "tombstone:adventure/use_guard": {
     "criteria": {
-      "has_item": "2025-09-24 23:44:15 +0000"
+      "coded_trigger": "2025-09-24 23:43:37 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
+  "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
-      "has_item": "2025-09-24 23:46:25 +0000"
+      "has_item": "2025-09-24 23:44:15 +0000"
     },
     "done": true
   },
@@ -9358,21 +9358,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-09-25 00:01:34 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-09-24 23:44:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-09-24 23:44:48 +0000"
     },
     "done": true
   },
@@ -9382,9 +9370,57 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_guard": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "coded_trigger": "2025-09-24 23:43:37 +0000"
+      "has_silver_nugget": "2025-09-24 23:44:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-09-24 23:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-25 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-09-25 00:20:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-09-25 00:20:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-09-25 00:36:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-09-25 00:20:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-25 00:20:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-09-25 00:20:51 +0000"
     },
     "done": true
   },
