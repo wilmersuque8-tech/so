@@ -1052,3 +1052,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 18:41:57.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:45601] logged in with entity id 2948 at (-1373.300000011921, 69.0, -410.58327804978467)
 [25Sep2025 18:41:57.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [25Sep2025 18:41:57.057] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 18:51:18.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -9.737172680795311,0.0,2.7235633536390083
+[25Sep2025 18:56:43.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 18:56:43.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
