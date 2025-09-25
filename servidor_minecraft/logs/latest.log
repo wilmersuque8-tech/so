@@ -1064,3 +1064,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 05:28:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
 [25Sep2025 05:28:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [We Just Want our Hat Back]
 [25Sep2025 05:28:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [A Bone to Pick]
+[25Sep2025 05:30:33.874] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10799, l='ServerLevel[world]', x=-2678.50, y=49.00, z=-750.50]
+[25Sep2025 05:31:51.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Ambush]
+[25Sep2025 05:34:34.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael moved wrongly!
+[25Sep2025 05:34:37.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael moved wrongly!
+[25Sep2025 05:40:06.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17294, l='ServerLevel[world]', x=-2723.47, y=66.50, z=566.18] died, message: 'Unemployed was pricked to death'
+[25Sep2025 05:40:54.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17295, l='ServerLevel[world]', x=-2741.50, y=63.00, z=560.00] died, message: 'Unemployed was slain by Crocodile'
+[25Sep2025 05:45:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Bison
+[25Sep2025 05:45:33.746] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[25Sep2025 05:57:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Ghost
+[25Sep2025 05:57:32.290] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[25Sep2025 05:58:51.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Timed out
+[25Sep2025 05:58:51.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
+[25Sep2025 05:59:39.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:38619] logged in with entity id 26381 at (-1470.6834618190326, 89.25220334025373, -372.30000001192093)
+[25Sep2025 05:59:39.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[25Sep2025 05:59:39.925] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[25Sep2025 06:00:01.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Sep2025 06:00:01.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ya estoy<--[HERE]
+[25Sep2025 06:00:25.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:35193] logged in with entity id 26888 at (-1451.88307713835, 74.0, -330.52600728112316)
+[25Sep2025 06:00:25.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 06:00:25.736] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 06:00:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Ya llegue
+[25Sep2025 06:02:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 06:02:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 06:03:09.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -9.685989866057525,-1.9755759117863079,2.7779394337746908
+[25Sep2025 06:05:18.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 06:05:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 06:06:28.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 4.472639130125572,0.0,-9.095703386076877
+[25Sep2025 06:06:43.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pe
+[25Sep2025 06:06:45.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no tienes huesos?
+[25Sep2025 06:06:48.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> de dragon
+[25Sep2025 06:06:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> No
+[25Sep2025 06:06:51.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipi
+[25Sep2025 06:07:35.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 06:08:41.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 06:08:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 06:09:04.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:52689] logged in with entity id 31711 at (-357.1867524090419, -1.6139181488753815, -902.7196624774928)
+[25Sep2025 06:09:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 06:09:04.247] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 06:10:04.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 9.52680895791093,0.0,3.3875685014433543
+[25Sep2025 06:10:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[25Sep2025 06:10:41.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 06:10:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 06:11:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 06:19:50.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 06:19:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
