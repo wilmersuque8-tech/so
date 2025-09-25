@@ -40,6 +40,7 @@
       "minecraft:snowy_slopes": "2025-08-27 04:14:51 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-08 02:25:06 +0000",
       "minecraft:taiga": "2025-09-08 02:25:03 +0000",
+      "minecraft:frozen_river": "2025-09-24 23:21:17 +0000",
       "minecraft:cherry_grove": "2025-08-26 21:51:33 +0000",
       "minecraft:sunflower_plains": "2025-08-31 05:01:21 +0000",
       "minecraft:birch_forest": "2025-09-08 02:03:04 +0000",
@@ -52,15 +53,19 @@
       "minecraft:river": "2025-08-26 05:52:46 +0000",
       "minecraft:lukewarm_ocean": "2025-08-30 06:01:08 +0000",
       "minecraft:stony_shore": "2025-08-26 05:46:54 +0000",
+      "minecraft:snowy_plains": "2025-09-24 23:21:19 +0000",
       "minecraft:dripstone_caves": "2025-08-31 04:19:51 +0000",
+      "minecraft:snowy_taiga": "2025-09-24 23:20:48 +0000",
       "minecraft:grove": "2025-08-27 04:14:24 +0000",
       "minecraft:jagged_peaks": "2025-08-27 04:01:21 +0000",
       "minecraft:cold_ocean": "2025-09-08 02:24:44 +0000",
       "minecraft:forest": "2025-08-26 05:44:10 +0000",
       "minecraft:lush_caves": "2025-09-08 04:23:06 +0000",
+      "minecraft:frozen_ocean": "2025-09-24 23:36:25 +0000",
       "minecraft:jungle": "2025-08-26 06:43:44 +0000",
       "minecraft:ocean": "2025-08-26 21:45:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-08 02:25:13 +0000",
+      "minecraft:snowy_beach": "2025-09-24 23:21:08 +0000",
       "minecraft:windswept_savanna": "2025-09-09 01:53:51 +0000",
       "minecraft:flower_forest": "2025-08-26 05:41:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-07 00:07:05 +0000",
@@ -414,6 +419,7 @@
       "minecraft:piglin": "2025-08-29 04:54:01 +0000",
       "minecraft:enderman": "2025-08-26 06:50:37 +0000",
       "minecraft:silverfish": "2025-09-20 22:51:07 +0000",
+      "minecraft:stray": "2025-09-24 23:37:50 +0000",
       "minecraft:zombie": "2025-08-26 05:44:59 +0000",
       "minecraft:drowned": "2025-08-26 21:54:08 +0000",
       "minecraft:zombie_villager": "2025-08-31 03:58:34 +0000"
@@ -9313,6 +9319,72 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-09-24 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-09-24 23:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-09-24 23:32:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-09-24 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-09-24 23:46:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-24 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-24 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-25 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-24 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-09-24 23:44:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-09-24 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-09-24 23:43:37 +0000"
     },
     "done": true
   },

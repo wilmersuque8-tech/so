@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-21 03:11:31 +0000",
+      "minecraft:deep_ocean": "2025-09-24 23:47:42 +0000",
       "minecraft:frozen_river": "2025-09-21 03:14:13 +0000",
       "minecraft:sunflower_plains": "2025-09-20 22:48:05 +0000",
       "minecraft:cherry_grove": "2025-09-20 23:30:04 +0000",
@@ -6467,6 +6468,30 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-09-24 08:02:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-09-24 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-24 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-24 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-24 23:58:42 +0000"
     },
     "done": true
   },

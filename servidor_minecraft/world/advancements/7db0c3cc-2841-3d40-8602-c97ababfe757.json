@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-07 04:35:37 +0000",
+      "minecraft:deep_ocean": "2025-09-24 23:49:24 +0000",
       "minecraft:cherry_grove": "2025-09-20 22:37:56 +0000",
       "minecraft:sunflower_plains": "2025-09-20 22:48:37 +0000",
       "minecraft:birch_forest": "2025-09-06 23:32:19 +0000",
@@ -9475,6 +9476,24 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-24 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-09-24 23:44:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-09-24 23:44:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-09-24 23:44:16 +0000"
     },
     "done": true
   },
