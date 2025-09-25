@@ -1134,3 +1134,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 07:00:47.989] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
 [25Sep2025 07:02:21.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
 [25Sep2025 07:02:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 07:04:27.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:59401] logged in with entity id 56583 at (573.4565879921167, -47.5, -692.246450917224)
+[25Sep2025 07:04:27.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 07:04:27.480] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 07:05:22.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[25Sep2025 07:05:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 07:06:14.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:43287] logged in with entity id 57551 at (427.4775536381528, -44.88122819813545, -636.6875812367905)
+[25Sep2025 07:06:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 07:06:14.231] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 07:06:28.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[25Sep2025 07:06:28.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 07:07:11.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:33603] logged in with entity id 57995 at (427.4775536381528, -44.88122819813545, -636.6875812367905)
+[25Sep2025 07:07:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[25Sep2025 07:07:11.328] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[25Sep2025 07:07:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 07:07:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya me tengo que ir pe
+[25Sep2025 07:07:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Largate
+[25Sep2025 07:07:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipipi
+[25Sep2025 07:07:48.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
+[25Sep2025 07:07:48.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
+[25Sep2025 07:16:21.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was blown up by Creeper
+[25Sep2025 07:16:21.988] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[25Sep2025 07:19:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[25Sep2025 07:20:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[25Sep2025 07:20:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Ice Dragon
+[25Sep2025 07:20:46.083] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[25Sep2025 07:21:29.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was frozen by Ice Dragon
+[25Sep2025 07:21:29.935] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
