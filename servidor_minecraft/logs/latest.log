@@ -1052,3 +1052,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 05:17:50.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael lost connection: Disconnected
 [25Sep2025 05:17:50.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael left the game
 [25Sep2025 05:17:50.332] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Sep2025 05:19:31.490] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f4e635f[id=<null>,name=abi3mael,properties={},legacy=false] (/127.152.24.121:47795) lost connection: Disconnected
+[25Sep2025 05:20:06.982] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d0a2c6b[id=<null>,name=abi3mael,properties={},legacy=false] (/127.152.24.121:35929) lost connection: Disconnected
+[25Sep2025 05:23:02.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:47343] logged in with entity id 5262 at (-1736.241771336783, 81.68807673454285, -1021.9041860499161)
+[25Sep2025 05:23:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[25Sep2025 05:23:03.436] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[25Sep2025 05:26:54.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9171, l='ServerLevel[world]', x=-2675.50, y=46.00, z=-750.50]
+[25Sep2025 05:27:39.174] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9714, l='ServerLevel[world]', x=-2668.50, y=52.00, z=-753.50]
+[25Sep2025 05:27:44.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9757, l='ServerLevel[world]', x=-2671.50, y=43.00, z=-749.50]
+[25Sep2025 05:28:03.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[25Sep2025 05:28:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[25Sep2025 05:28:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [We Just Want our Hat Back]
+[25Sep2025 05:28:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [A Bone to Pick]

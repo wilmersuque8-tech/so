@@ -6913,5 +6913,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-09-25 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-09-25 05:28:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
