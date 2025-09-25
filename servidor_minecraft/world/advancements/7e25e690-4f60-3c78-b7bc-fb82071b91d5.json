@@ -9394,33 +9394,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/prevent_death_voodoo_poppet": {
-    "criteria": {
-      "coded_trigger": "2025-09-25 01:43:17 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-09-25 00:20:51 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/awm_smithing": {
-    "criteria": {
-      "has_awm_blueprint": "2025-09-25 01:57:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2025-09-25 00:36:09 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/m_60_blueprint": {
-    "criteria": {
-      "has_m_60_blueprint": "2025-09-25 01:50:17 +0000"
     },
     "done": true
   },
@@ -9442,21 +9418,45 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/m_60_smithing": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "has_m_60_blueprint": "2025-09-25 01:50:17 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/awm_blueprint": {
-    "criteria": {
-      "has_awm_blueprint": "2025-09-25 01:57:47 +0000"
+      "has_stack_upgrade_tier_1": "2025-09-25 00:36:09 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2025-09-25 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_voodoo_poppet": {
+    "criteria": {
+      "coded_trigger": "2025-09-25 01:43:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_60_blueprint": {
+    "criteria": {
+      "has_m_60_blueprint": "2025-09-25 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_60_smithing": {
+    "criteria": {
+      "has_m_60_blueprint": "2025-09-25 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/awm_smithing": {
+    "criteria": {
+      "has_awm_blueprint": "2025-09-25 01:57:47 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/awm_blueprint": {
+    "criteria": {
+      "has_awm_blueprint": "2025-09-25 01:57:47 +0000"
     },
     "done": true
   },
