@@ -6501,6 +6501,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-09-25 01:05:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-09-25 00:24:31 +0000"
@@ -6528,6 +6534,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-09-25 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/best_friend": {
+    "criteria": {
+      "0": "2025-09-25 00:50:10 +0000"
     },
     "done": true
   },
