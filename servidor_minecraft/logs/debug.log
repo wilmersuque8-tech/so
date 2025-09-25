@@ -4150,3 +4150,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 08:29:28.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Netherite Spring] to Eduardo171]
 [25Sep2025 08:29:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Netherite Trigger] to Eduardo171]
 [25Sep2025 08:30:11.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:32:52.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 08:32:52.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 08:33:31.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 5.4589881260551465,1.9986640208878583,-8.171122135679752
+[25Sep2025 08:33:46.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:33:48.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:33:49.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:33:50.387] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:33:54.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[25Sep2025 08:35:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 2000 [Raw Beef] to Eduardo171]
+[25Sep2025 08:37:52.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 08:37:52.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 08:39:08.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 08:39:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 08:39:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Sep2025 08:39:28.199] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[25Sep2025 08:39:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Sep2025 08:39:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Sep2025 08:39:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Sep2025 08:39:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Sep2025 08:39:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Sep2025 08:39:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Sep2025 08:39:28.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 08:39:28.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Sep2025 08:39:28.396] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Sep2025 08:39:28.397] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/so/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23130!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Sep2025 08:39:28.398] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Sep2025 08:39:28.400] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Sep2025 08:39:28.401] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

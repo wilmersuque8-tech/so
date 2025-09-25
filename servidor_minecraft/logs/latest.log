@@ -1058,3 +1058,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [25Sep2025 08:29:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Netherite Barrel] to Eduardo171]
 [25Sep2025 08:29:28.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Netherite Spring] to Eduardo171]
 [25Sep2025 08:29:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Netherite Trigger] to Eduardo171]
+[25Sep2025 08:33:31.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 5.4589881260551465,1.9986640208878583,-8.171122135679752
+[25Sep2025 08:35:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 2000 [Raw Beef] to Eduardo171]
+[25Sep2025 08:39:08.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[25Sep2025 08:39:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[25Sep2025 08:39:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Sep2025 08:39:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Sep2025 08:39:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Sep2025 08:39:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Sep2025 08:39:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Sep2025 08:39:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Sep2025 08:39:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Sep2025 08:39:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Sep2025 08:39:28.396] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Sep2025 08:39:28.398] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Sep2025 08:39:28.400] [Server thread/INFO] [Framework/]: Finished unloading server configs
